@@ -1,0 +1,124 @@
+{
+  "npcDataList": [
+    {
+      "npcID": "NPC_Mtk_1",
+      "daftarPertanyaan": [
+        { "pertanyaan": "Berapakah hasil dari 15 x 4 + 10?", "jawabanBenar": "70" },
+        { "pertanyaan": "Jika sebuah persegi memiliki panjang sisi 8 cm, berapakah kelilingnya?", "jawabanBenar": "32 cm" },
+        { "pertanyaan": "Berapakah hasil dari 100 : 4 - 5?", "jawabanBenar": "20" },
+        { "pertanyaan": "Berapakah jumlah total sudut dalam sebuah segitiga?", "jawabanBenar": "180" },
+        { "pertanyaan": "Sebuah persegi panjang memiliki panjang 10 cm dan lebar 5 cm. Berapakah luasnya?", "jawabanBenar": "50 cm2" }
+      ]
+    },
+    {
+      "npcID": "NPC_Mtk_2",
+      "daftarPertanyaan": [
+        { "pertanyaan": "Berapakah nilai akar kuadrat dari 81?", "jawabanBenar": "9" },
+        { "pertanyaan": "Berapakah hasil dari 25 + 35 - 15?", "jawabanBenar": "45" },
+        { "pertanyaan": "Sebuah lingkaran memiliki jari-jari 7 cm. Berapakah kelilingnya?", "jawabanBenar": "44 cm" },
+        { "pertanyaan": "Berapakah hasil perpangkatan dari 5 pangkat 3?", "jawabanBenar": "125" },
+        { "pertanyaan": "Jika x + 7 = 15, berapakah nilai x?", "jawabanBenar": "8" }
+      ]
+    },
+    {
+      "npcID": "NPC_IPA_1",
+      "daftarPertanyaan": [
+        { "pertanyaan": "Apa nama gas yang dihirup oleh manusia saat bernapas?", "jawabanBenar": "oksigen" },
+        { "pertanyaan": "Tumbuhan hijau dapat membuat makanannya sendiri melalui proses yang disebut apa?", "jawabanBenar": "fotosintesis" },
+        { "pertanyaan": "Planet manakah yang mendapat julukan sebagai 'Planet Merah' di tata surya kita?", "jawabanBenar": "mars" },
+        { "pertanyaan": "Zat hijau daun yang berfungsi menyerap cahaya matahari saat fotosintesis disebut apa?", "jawabanBenar": "klorofil" },
+        { "pertanyaan": "Perubahan wujud zat dari cair menjadi gas disebut apa?", "jawabanBenar": "menguap" }
+      ]
+    },
+    {
+      "npcID": "NPC_IPA_2",
+      "daftarPertanyaan": [
+        { "pertanyaan": "Apa nama organ tubuh manusia yang berfungsi memompa darah ke seluruh tubuh?", "jawabanBenar": "jantung" },
+        { "pertanyaan": "Berapakah suhu titik didih air pada tekanan udara normal?", "jawabanBenar": "100" },
+        { "pertanyaan": "Hewan yang memakan tumbuhan saja disebut hewan apa?", "jawabanBenar": "herbivora" },
+        { "pertanyaan": "Alat yang digunakan untuk mengukur suhu udara adalah...", "jawabanBenar": "termometer" },
+        { "pertanyaan": "Bagian sel tumbuhan yang memberi bentuk dan perlindungan paling luar adalah...", "jawabanBenar": "dinding sel" }
+      ]
+    },
+    {
+      "npcID": "NPC_Indo_1",
+      "daftarPertanyaan": [
+        { "pertanyaan": "Apa sebutan untuk kata yang memiliki arti yang sama (padanan kata)?", "jawabanBenar": "sinonim" },
+        { "pertanyaan": "Sebutkan tokoh utama yang biasanya memiliki sifat baik dalam sebuah cerita!", "jawabanBenar": "protagonis" },
+        { "pertanyaan": "Apa sebutan untuk lawan kata (kata yang berlawanan arti)?", "jawabanBenar": "antonim" },
+        { "pertanyaan": "Kalimat yang mengandung perintah atau ajakan disebut kalimat apa?", "jawabanBenar": "imperatif" },
+        { "pertanyaan": "Apa sebutan untuk ide pokok atau gagasan utama dalam sebuah paragraf?", "jawabanBenar": "pikiran utama" }
+      ]
+    },
+    {
+      "npcID": "NPC_Indo_2",
+      "daftarPertanyaan": [
+        { "pertanyaan": "Karya sastra berbentuk puisi lama yang terdiri dari 4 baris berima a-b-a-b disebut apa?", "jawabanBenar": "pantun" },
+        { "pertanyaan": "Tokoh penentang atau penjahat dalam sebuah cerita dinamakan tokoh apa?", "jawabanBenar": "antagonis" },
+        { "pertanyaan": "Apa nama majas yang membandingkan benda mati seolah-olah memiliki sifat seperti manusia?", "jawabanBenar": "personifikasi" },
+        { "pertanyaan": "Cerita rakyat yang mengisahkan tentang asal-usul terjadinya suatu tempat dinamakan apa?", "jawabanBenar": "legenda" },
+        { "pertanyaan": "Imbuhan yang diletakkan di awal kata dasar disebut apa?", "jawabanBenar": "awalan" }
+      ]
+    },
+    {
+      "npcID": "NPC_IPS_1",
+      "daftarPertanyaan": [
+        { "pertanyaan": "Samudra terluas yang ada di bumi adalah Samudra...", "jawabanBenar": "pasifik" },
+        { "pertanyaan": "Siapa nama tokoh yang membacakan naskah proklamasi kemerdekaan Indonesia pada tanggal 17 Agustus 1945?", "jawabanBenar": "ir. soekarno" },
+        { "pertanyaan": "Apa nama benua terkecil di dunia?", "jawabanBenar": "australia" },
+        { "pertanyaan": "Kerajaan Hindu tertua di Indonesia adalah Kerajaan...", "jawabanBenar": "kutai" },
+        { "pertanyaan": "Mata uang resmi yang digunakan oleh negara Jepang adalah...", "jawabanBenar": "yen" }
+      ]
+    },
+    {
+      "npcID": "NPC_IPS_2",
+      "daftarPertanyaan": [
+        { "pertanyaan": "Apa nama garis khayal yang membagi bumi menjadi dua bagian, yaitu utara dan selatan?", "jawabanBenar": "khatulistiwa" },
+        { "pertanyaan": "Siapa pahlawan nasional dari Jepara yang memperjuangkan emansipasi wanita Indonesia?", "jawabanBenar": "r.a. kartini" },
+        { "pertanyaan": "Candi Buddha terbesar di Indonesia yang terletak di Magelang, Jawa Tengah adalah Candi...", "jawabanBenar": "borobudur" },
+        { "pertanyaan": "Kegiatan menyalurkan barang atau jasa dari produsen ke konsumen disebut apa?", "jawabanBenar": "distribusi" },
+        { "pertanyaan": "Negara tetangga Indonesia yang berbatasan darat langsung di pulau Kalimantan adalah...", "jawabanBenar": "malaysia" }
+      ]
+    },
+    {
+      "npcID": "NPC_PKN_1",
+      "daftarPertanyaan": [
+        { "pertanyaan": "Apa semboyan negara Indonesia yang tertulis pada kaki burung Garuda Pancasila?", "jawabanBenar": "bhinneka tunggal ika" },
+        { "pertanyaan": "Sila pertama dalam Pancasila dilambangkan dengan simbol apa?", "jawabanBenar": "bintang" },
+        { "pertanyaan": "Apa dasar negara Republik Indonesia?", "jawabanBenar": "pancasila" },
+        { "pertanyaan": "Berapakah jumlah bulu pada leher burung Garuda Pancasila?", "jawabanBenar": "45" },
+        { "pertanyaan": "Hari Lahir Pancasila diperingati setiap tanggal berapa? (Contoh: 1 Juni)", "jawabanBenar": "1 juni" }
+      ]
+    },
+    {
+      "npcID": "NPC_PKN_2",
+      "daftarPertanyaan": [
+        { "pertanyaan": "Apa nama hukum dasar tertulis tertinggi di negara Indonesia?", "jawabanBenar": "uud 1945" },
+        { "pertanyaan": "Lembaga tinggi negara yang bertugas membuat undang-undang bersama Presiden adalah...", "jawabanBenar": "dpr" },
+        { "pertanyaan": "Sikap menghargai dan menghormati perbedaan agama, suku, dan budaya disebut sikap...", "jawabanBenar": "toleransi" },
+        { "pertanyaan": "Apa lambang dari sila kelima Pancasila?", "jawabanBenar": "padi dan kapas" },
+        { "pertanyaan": "Keputusan bersama dalam musyawarah sebaiknya diambil berdasarkan prinsip apa?", "jawabanBenar": "mufakat" }
+      ]
+    },
+    {
+      "npcID": "NPC_Inggris_1",
+      "daftarPertanyaan": [
+        { "pertanyaan": "Apa bahasa Inggris dari kata 'Matahari'?", "jawabanBenar": "sun" },
+        { "pertanyaan": "Terjemahkan kalimat berikut ke dalam bahasa Indonesia: 'She is reading a book.'", "jawabanBenar": "dia sedang membaca buku" },
+        { "pertanyaan": "Apa bahasa Inggris dari kata 'Buku'?", "jawabanBenar": "book" },
+        { "pertanyaan": "Apa arti dari kata 'Apple' dalam bahasa Indonesia?", "jawabanBenar": "apel" },
+        { "pertanyaan": "Terjemahkan kata 'Good morning' ke dalam bahasa Indonesia!", "jawabanBenar": "selamat pagi" }
+      ]
+    },
+    {
+      "npcID": "NPC_Inggris_2",
+      "daftarPertanyaan": [
+        { "pertanyaan": "Apa lawan kata (opposite) dari kata 'Big' dalam bahasa Inggris?", "jawabanBenar": "small" },
+        { "pertanyaan": "Terjemahkan kalimat berikut: 'I love learning.'", "jawabanBenar": "saya suka belajar" },
+        { "pertanyaan": "Apa bahasa Inggris dari warna 'Hijau'?", "jawabanBenar": "green" },
+        { "pertanyaan": "Sebutkan bahasa Inggris dari bilangan 'Sepuluh'!", "jawabanBenar": "ten" },
+        { "pertanyaan": "Apa arti dari kalimat 'Thank you' dalam bahasa Indonesia?", "jawabanBenar": "terima kasih" }
+      ]
+    }
+  ]
+}
