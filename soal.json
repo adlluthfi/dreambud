@@ -4,10 +4,10 @@
       "npcID": "NPC_Mtk_1",
       "daftarPertanyaan": [
         { "pertanyaan": "Berapakah hasil dari 15 x 4 + 10?", "jawabanBenar": "70" },
-        { "pertanyaan": "Jika sebuah persegi memiliki panjang sisi 8 cm, berapakah kelilingnya?", "jawabanBenar": "32 cm" },
+        { "pertanyaan": "Jika sebuah persegi memiliki panjang sisi 8 cm, berapakah kelilingnya?", "jawabanBenar": "32" },
         { "pertanyaan": "Berapakah hasil dari 100 : 4 - 5?", "jawabanBenar": "20" },
         { "pertanyaan": "Berapakah jumlah total sudut dalam sebuah segitiga?", "jawabanBenar": "180" },
-        { "pertanyaan": "Sebuah persegi panjang memiliki panjang 10 cm dan lebar 5 cm. Berapakah luasnya?", "jawabanBenar": "50 cm2" }
+        { "pertanyaan": "Sebuah persegi panjang memiliki panjang 10 cm dan lebar 5 cm. Berapakah luasnya?", "jawabanBenar": "50" }
       ]
     },
     {
@@ -15,7 +15,7 @@
       "daftarPertanyaan": [
         { "pertanyaan": "Berapakah nilai akar kuadrat dari 81?", "jawabanBenar": "9" },
         { "pertanyaan": "Berapakah hasil dari 25 + 35 - 15?", "jawabanBenar": "45" },
-        { "pertanyaan": "Sebuah lingkaran memiliki jari-jari 7 cm. Berapakah kelilingnya?", "jawabanBenar": "44 cm" },
+        { "pertanyaan": "Sebuah lingkaran memiliki jari-jari 7 cm. Berapakah kelilingnya?", "jawabanBenar": "44" },
         { "pertanyaan": "Berapakah hasil perpangkatan dari 5 pangkat 3?", "jawabanBenar": "125" },
         { "pertanyaan": "Jika x + 7 = 15, berapakah nilai x?", "jawabanBenar": "8" }
       ]
@@ -64,7 +64,7 @@
       "npcID": "NPC_IPS_1",
       "daftarPertanyaan": [
         { "pertanyaan": "Samudra terluas yang ada di bumi adalah Samudra...", "jawabanBenar": "pasifik" },
-        { "pertanyaan": "Siapa nama tokoh yang membacakan naskah proklamasi kemerdekaan Indonesia pada tanggal 17 Agustus 1945?", "jawabanBenar": "ir. soekarno" },
+        { "pertanyaan": "Siapa nama tokoh yang membacakan naskah proklamasi kemerdekaan Indonesia pada tanggal 17 Agustus 1945?", "jawabanBenar": "soekarno" },
         { "pertanyaan": "Apa nama benua terkecil di dunia?", "jawabanBenar": "australia" },
         { "pertanyaan": "Kerajaan Hindu tertua di Indonesia adalah Kerajaan...", "jawabanBenar": "kutai" },
         { "pertanyaan": "Mata uang resmi yang digunakan oleh negara Jepang adalah...", "jawabanBenar": "yen" }
@@ -74,7 +74,7 @@
       "npcID": "NPC_IPS_2",
       "daftarPertanyaan": [
         { "pertanyaan": "Apa nama garis khayal yang membagi bumi menjadi dua bagian, yaitu utara dan selatan?", "jawabanBenar": "khatulistiwa" },
-        { "pertanyaan": "Siapa pahlawan nasional dari Jepara yang memperjuangkan emansipasi wanita Indonesia?", "jawabanBenar": "r.a. kartini" },
+        { "pertanyaan": "Siapa pahlawan nasional dari Jepara yang memperjuangkan emansipasi wanita Indonesia?", "jawabanBenar": "kartini" },
         { "pertanyaan": "Candi Buddha terbesar di Indonesia yang terletak di Magelang, Jawa Tengah adalah Candi...", "jawabanBenar": "borobudur" },
         { "pertanyaan": "Kegiatan menyalurkan barang atau jasa dari produsen ke konsumen disebut apa?", "jawabanBenar": "distribusi" },
         { "pertanyaan": "Negara tetangga Indonesia yang berbatasan darat langsung di pulau Kalimantan adalah...", "jawabanBenar": "malaysia" }
