@@ -1,0 +1,28 @@
+{
+  "daftarPesan": [
+    {
+      "pengirim": "TemanSekolah@gmail.com",
+      "isiPesan": "Hai! Besok kita belajar kelompok di perpustakaan jam 3 sore ya.",
+      "isBerbahaya": false,
+      "penjelasan": "Aman: Hanya informasi kegiatan belajar."
+    },
+    {
+      "pengirim": "AdminGameGratis@gmail.com",
+      "isiPesan": "Selamat! Kirimkan PASSWORD akunmu sekarang untuk klaim 10.000 Robux!",
+      "isBerbahaya": true,
+      "penjelasan": "Berbahaya: Jangan pernah membagikan password."
+    },
+    {
+      "pengirim": "OrangTakDikenal_99",
+      "isiPesan": "Minta nomor WA mama kamu dong, nanti tak kirimkan hadiah boneka besar.",
+      "isBerbahaya": true,
+      "penjelasan": "Berbahaya: Nomor HP keluarga adalah informasi pribadi."
+    },
+    {
+      "pengirim": "GuruKelas@sekolah.sch.id",
+      "isiPesan": "Pengumuman: Jadwal ujian semester akan dimulai minggu depan. Tetap semangat!",
+      "isBerbahaya": false,
+      "penjelasan": "Aman: Informasi resmi dari guru sekolah."
+    }
+  ]
+}
