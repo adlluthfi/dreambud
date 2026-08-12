@@ -2,123 +2,123 @@
   "daftarPesan": [
     {
       "pengirim": "TemanSekolah@gmail.com",
-      "isiPesan": "Hai! Besok kita belajar kelompok matematika di perpustakaan jam 3 sore ya. Jangan lupa bawa buku paket.",
+      "isiPesan": "Besok kita belajar kelompok matematika jam 3 sore di rumah Budi ya.",
       "isBerbahaya": false,
-      "penjelasan": "Aman: Pesan ini hanya berisi informasi kegiatan belajar kelompok."
+      "penjelasan": "Aman! Ini jadwal belajar kelompok."
     },
     {
-      "pengirim": "AdminGameGratis_99@gmail.com",
-      "isiPesan": "Selamat! Kamu menang 10.000 Robux gratis. Balas pesan ini dan berikan PASSWORD akunmu untuk klaim!",
+      "pengirim": "AdminRobuxGratis@gmail.com",
+      "isiPesan": "Selamat! Minta PASSWORD akunmu sekarang untuk klaim 10.000 Robux gratis!",
       "isBerbahaya": true,
-      "penjelasan": "Berbahaya: Password adalah informasi rahasia. Jangan pernah memberikannya ke siapa pun!"
+      "penjelasan": "Bahaya! Password itu RAHASIA!"
     },
     {
-      "pengirim": "OrangTakDikenal_X",
-      "isiPesan": "Halo dek, minta nomor WhatsApp mama atau papa kamu dong. Nanti tak kirimkan hadiah boneka besar ke rumah.",
+      "pengirim": "OrangTakDikenal_99",
+      "isiPesan": "Halo, minta nomor WA mama kamu dong. Nanti dikirim hadiah boneka.",
       "isBerbahaya": true,
-      "penjelasan": "Berbahaya: Nomor HP dan kontak keluarga adalah informasi pribadi yang harus dilindungi."
+      "penjelasan": "Bahaya! Jangan sebar nomor HP keluarga."
     },
     {
       "pengirim": "GuruKelas@sekolah.sch.id",
-      "isiPesan": "Pengumuman: Jadwal ujian semester akan dimulai minggu depan. Tetap semangat belajar ya!",
+      "isiPesan": "Pengumuman: Ujian semester dimulai minggu depan. Tetap semangat!",
       "isBerbahaya": false,
-      "penjelasan": "Aman: Pesan pengumuman resmi dari guru di sekolah."
+      "penjelasan": "Aman! Informasi resmi dari sekolah."
     },
     {
-      "pengirim": "HadiahMewah_Online",
-      "isiPesan": "Kamu memenangkan HP baru! Klik link ini dan masukkan ALAMAT RUMAH LENGKAP kamu untuk pengiriman.",
+      "pengirim": "HadiahHP_Online",
+      "isiPesan": "Kamu menang HP baru! Kirimkan ALAMAT RUMAH LENGKAP kamu sekarang.",
       "isBerbahaya": true,
-      "penjelasan": "Berbahaya: Jangan sebar alamat rumah dan jangan menekan link dari orang tak dikenal!"
+      "penjelasan": "Bahaya! Alamat rumah wajib dirahasiakan."
     },
     {
       "pengirim": "KakakBudi@gmail.com",
-      "isiPesan": "Nanti sore kakak yang jemput sekolah jam 2 ya, kamu tunggu di dalam area pos satpam sekolah.",
+      "isiPesan": "Nanti sore kakak yang jemput sekolah ya, tunggu di dalam pos satpam.",
       "isBerbahaya": false,
-      "penjelasan": "Aman: Pesan dari anggota keluarga mengenai penjemputan sekolah."
+      "penjelasan": "Aman! Pesan penjemputan dari keluarga."
     },
     {
-      "pengirim": "TemanBaru_Game",
-      "isiPesan": "Boleh minta foto Kartu Pelajar atau KTP orang tua kamu tidak? Buat syarat masuk club game aku.",
+      "pengirim": "TemanGame_X",
+      "isiPesan": "Minta foto Kartu Pelajar atau KTP orang tua kamu buat syarat masuk guild.",
       "isBerbahaya": true,
-      "penjelasan": "Berbahaya: Kartu identitas berisi data rahasia keluarga yang tidak boleh disebarkan."
+      "penjelasan": "Bahaya! Kartu identitas itu rahasia!"
     },
     {
       "pengirim": "SanggarLukis@gmail.com",
-      "isiPesan": "Informasi: Jadwal latihan melukis hari Sabtu besok dimajukan menjadi jam 09.00 pagi.",
+      "isiPesan": "Jadwal latihan melukis hari Sabtu dimajukan jadi jam 9 pagi ya.",
       "isBerbahaya": false,
-      "penjelasan": "Aman: Hanya jadwal kegiatan kursus umum."
+      "penjelasan": "Aman! Pengumuman jadwal kursus."
     },
     {
       "pengirim": "Stranger_Mystery",
-      "isiPesan": "Aku juga suka main game ini! Ayo besok sore kita ketemu sendirian di taman dekat sekolahmu.",
+      "isiPesan": "Ayo besok sore kita ketemu sendirian di taman dekat sekolahmu.",
       "isBerbahaya": true,
-      "penjelasan": "Berbahaya: Waspada Stranger Danger! Jangan pernah mau diajak bertemu orang asing dari internet."
+      "penjelasan": "Bahaya! Jangan mau menemui orang asing!"
     },
     {
-      "pengirim": "PinGameGratis@gmail.com",
-      "isiPesan": "Ketikkan PIN HP atau PIN ATM orang tuamu di sini untuk membuka skin karakter langka secara gratis!",
+      "pengirim": "PinATM_Gratis",
+      "isiPesan": "Ketikkan PIN HP atau PIN ATM orang tuamu untuk buka skin hero gratis!",
       "isBerbahaya": true,
-      "penjelasan": "Berbahaya: PIN HP/ATM adalah rahasia keuangan yang sangat berbahaya jika tersebar."
+      "penjelasan": "Bahaya! PIN rahasia penting keluarga."
     },
     {
       "pengirim": "PembinaPramuka@gmail.com",
-      "isiPesan": "Minggu depan sekolah kita mengadakan kemping Sabtu-Minggu. Jangan lupa siapkan seragam pramuka.",
+      "isiPesan": "Minggu depan ada kegiatan kemping Pramuka. Siapkan seragammu ya.",
       "isBerbahaya": false,
-      "penjelasan": "Aman: Informasi kegiatan resmi dari pembina sekolah."
+      "penjelasan": "Aman! Kegiatan resmi dari sekolah."
     },
     {
-      "pengirim": "EventDiamond_Gems",
-      "isiPesan": "Kirimkan foto wajahmu sambil memegang Akta Kelahiran untuk mendapatkan 5.000 Diamond gratis!",
+      "pengirim": "EventGems_Free",
+      "isiPesan": "Kirimkan foto wajahmu sambil memegang Akta Kelahiran untuk dapat Diamond!",
       "isBerbahaya": true,
-      "penjelasan": "Berbahaya: Jangan mengirimkan foto diri beserta dokumen resmi ke internet."
+      "penjelasan": "Bahaya! Akta lahir dokumen rahasia."
     },
     {
-      "pengirim": "OlahragaClub@gmail.com",
-      "isiPesan": "Pemberitahuan: Latihan sepak bola sore ini diliburkan karena kondisi cuaca hujan deras.",
+      "pengirim": "ClubSepakBola@gmail.com",
+      "isiPesan": "Latihan sepak bola sore ini diliburkan karena hujan deras.",
       "isBerbahaya": false,
-      "penjelasan": "Aman: Informasi perubahan jadwal olahraga."
+      "penjelasan": "Aman! Pengumuman kegiatan olahraga."
     },
     {
-      "pengirim": "JasaJokiGame_007",
-      "isiPesan": "Hai, mau aku bantu naikkan level akunmu jadi Sultan? Kirimkan email dan password kamu sekarang ya!",
+      "pengirim": "JokiGame_Hebat",
+      "isiPesan": "Mau akunmu jadi Level Max? Kirimkan email dan password kamu sekarang!",
       "isBerbahaya": true,
-      "penjelasan": "Berbahaya: Penipuan joki game sering digunakan untuk mencuri akun pemain."
+      "penjelasan": "Bahaya! Penipuan pencurian akun game."
     },
     {
       "pengirim": "PerpustakaanSekolah",
-      "isiPesan": "Buku cerita yang kamu pinjam minggu lalu sudah jatuh tempo besok. Harap dikembalikan tepat waktu.",
+      "isiPesan": "Buku cerita yang kamu pinjam sudah jatuh tempo besok. Harap dikembalikan.",
       "isBerbahaya": false,
-      "penjelasan": "Aman: Pengingat pengembalian buku perpustakaan."
+      "penjelasan": "Aman! Pengingat pengembalian buku."
     },
     {
-      "pengirim": "TokoMainanMisterius",
-      "isiPesan": "Kirimkan LOKASI LIVE / koordinat rumahmu sekarang juga kalau mau dapat hadiah mainan misteri!",
+      "pengirim": "TokoMainan_Misteri",
+      "isiPesan": "Kirimkan LOKASI LIVE rumahmu sekarang untuk dapat hadiah mainan!",
       "isBerbahaya": true,
-      "penjelasan": "Berbahaya: Membagikan lokasi live dapat mengancam keselamatan fisikmu di rumah."
+      "penjelasan": "Bahaya! Lokasi rumah sangat rahasia."
     },
     {
       "pengirim": "TemanSatuMeja@gmail.com",
-      "isiPesan": "Nanti malam kita main game bareng jam 7 ya! Karakter favoritku warna hijau.",
+      "isiPesan": "Nanti malam kita main game bareng jam 7 ya! Karakterku warna hijau.",
       "isBerbahaya": false,
-      "penjelasan": "Aman: Percakapan biasa antar teman tentang hobi dan permainan."
+      "penjelasan": "Aman! Obrolan hobi antar teman."
     },
     {
       "pengirim": "PengirimRahasia_00",
-      "isiPesan": "Jangan kasih tahu orang tuamu ya! Kirimkan nomor rekening bank ayahmu di sini sekarang.",
+      "isiPesan": "Jangan kasih tahu orang tuamu ya! Minta nomor rekening bank ayahmu.",
       "isBerbahaya": true,
-      "penjelasan": "Berbahaya: Jika ada orang minta merahasiakan sesuatu dari orang tua, langsung laporkan!"
+      "penjelasan": "Bahaya! Jangan pernah rahasiakan dari orang tua!"
     },
     {
-      "pengirim": "KlinikKesehatanSekolah",
-      "isiPesan": "Jadwal pemeriksaan kesehatan dan gigi untuk siswa kelas 4 akan dilaksanakan hari Kamis mendatang.",
+      "pengirim": "KlinikSekolah@gmail.com",
+      "isiPesan": "Jadwal pemeriksaan gigi siswa kelas 4 dilaksanakan hari Kamis.",
       "isBerbahaya": false,
-      "penjelasan": "Aman: Pengumuman kegiatan kesehatan dari sekolah."
+      "penjelasan": "Aman! Pengumuman kesehatan sekolah."
     },
     {
-      "pengirim": "AdminKanalUnknown",
-      "isiPesan": "Kirimkan foto bagian dalam rumah dan kamarmu jika ingin diangkat menjadi admin grup game ini.",
+      "pengirim": "AdminKanal_Unknown",
+      "isiPesan": "Kirimkan foto kamar tidurmu jika ingin diangkat jadi admin grup ini.",
       "isBerbahaya": true,
-      "penjelasan": "Berbahaya: Foto bagian dalam rumah dapat dimanfaatkan oleh pelaku kejahatan."
+      "penjelasan": "Bahaya! Foto rumah privasi keluarga."
     }
   ]
 }
