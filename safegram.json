@@ -1,0 +1,124 @@
+{
+  "daftarPost": [
+    {
+      "username": "@dino_99",
+      "isiPost": "Muka kamu jelek banget, mending gak usah posting foto lagi deh!",
+      "isBullying": true,
+      "penjelasan": "Tepat! Ini adalah body shaming (ejekan fisik)."
+    },
+    {
+      "username": "@siti_belajar",
+      "isiPost": "Selamat ya atas kemenangan lomba melukisnya! Keren banget!",
+      "isBullying": false,
+      "penjelasan": "Tepat! Ini adalah pujian positif."
+    },
+    {
+      "username": "@grup_kelas_x",
+      "isiPost": "Jangan ada yang mau temanan sama Budi ya, dia anak miskin dan aneh!",
+      "isBullying": true,
+      "penjelasan": "Tepat! Ini adalah tindakan pengucilan (social exclusion)."
+    },
+    {
+      "username": "@guru_seni",
+      "isiPost": "Jangan lupa kumpulkan tugas menggambar hari Jumat besok ya.",
+      "isBullying": false,
+      "penjelasan": "Tepat! Ini informasi pengumuman kelas."
+    },
+    {
+      "username": "@troll_internet",
+      "isiPost": "Kamu pinter tapi sok tahu banget. Mendingan kamu hilang aja dari bumi!",
+      "isBullying": true,
+      "penjelasan": "Tepat! Ini ujaran kebencian (hate speech)."
+    },
+    {
+      "username": "@raka_futsal",
+      "isiPost": "Besok sore latihan futsal di lapangan biasa jam 4 sore ya teman-teman.",
+      "isBullying": false,
+      "penjelasan": "Tepat! Ini ajakan kegiatan positif."
+    },
+    {
+      "username": "@anonymous_user",
+      "isiPost": "Lihat nih foto jeleknya si Budi pas tertidur, ayo kita tertawakan ramai-ramai!",
+      "isBullying": true,
+      "penjelasan": "Tepat! Menyebarkan foto memalu tanpa izin adalah bullying."
+    },
+    {
+      "username": "@ani_craft",
+      "isiPost": "Terima kasih sudah membantuku mengerjakan PR matematika tadi!",
+      "isBullying": false,
+      "penjelasan": "Tepat! Ucapan terima kasih antar teman."
+    },
+    {
+      "username": "@hater_007",
+      "isiPost": "Dasar anak gak berguna, gak ada yang suka sama kamu di sekolah!",
+      "isBullying": true,
+      "penjelasan": "Tepat! Pesan penghinaan dan intimidasi verbal."
+    },
+    {
+      "username": "@pramuka_official",
+      "isiPost": "Persiapkan kelengkapan seragam untuk kegiatan kemping Sabtu ini.",
+      "isBullying": false,
+      "penjelasan": "Tepat! Pengumuman resmi organisasi."
+    },
+    {
+      "username": "@toxic_gamer",
+      "isiPost": "Main game gitu aja gak bisa, beban tim! Mending uninstal gamenya!",
+      "isBullying": true,
+      "penjelasan": "Tepat! Ini cyberbullying dalam game (harassment)."
+    },
+    {
+      "username": "@kiki_buku",
+      "isiPost": "Buku novel baru ini ceritanya seru banget, sangat direkomendasikan!",
+      "isBullying": false,
+      "penjelasan": "Tepat! Bagikan hobi dan rekomendasi positif."
+    },
+    {
+      "username": "@penyebar_hoaks",
+      "isiPost": "Ayo rame-rame kita sebar gosip palsu kalau si Siti itu suka nyuri!",
+      "isBullying": true,
+      "penjelasan": "Tepat! Menyebarkan fitnah/gosip adalah pelanggaran serius."
+    },
+    {
+      "pengirim": "@pembina_pmr",
+      "isiPost": "Pelatihan pertolongan pertama akan diadakan di ruang UKS besok.",
+      "isBullying": false,
+      "penjelasan": "Tepat! Informasi kegiatan sekolah."
+    },
+    {
+      "username": "@cyber_bully_x",
+      "isiPost": "Gaya pakaianmu aneh banget, kayak orang dari zaman purba!",
+      "isBullying": true,
+      "penjelasan": "Tepat! Ejekan terhadap penampilan seseorang."
+    },
+    {
+      "username": "@donat_enak",
+      "isiPost": "Hari ini bawa bekal donat buatan ibu, enak banget rasanya!",
+      "isBullying": false,
+      "penjelasan": "Tepat! Postingan harian yang aman."
+    },
+    {
+      "username": "@fake_account_99",
+      "isiPost": "Kirimkan foto kamu lagi menangis ke sini kalau mau rahasiamu gak kubongkar!",
+      "isBullying": true,
+      "penjelasan": "Tepat! Ini tindakan pemerasan/ancaman (cyberstalking)."
+    },
+    {
+      "username": "@dina_juara",
+      "isiPost": "Semangat belajar semuanya, semoga nilai ujian kita bagus semua!",
+      "isBullying": false,
+      "penjelasan": "Tepat! Pesan motivasi belajar."
+    },
+    {
+      "username": "@pengacau_grup",
+      "isiPost": "Suaramu pas nyanyi tadi bikin telinga sakit, jangan pernah nyanyi lagi ya!",
+      "isBullying": true,
+      "penjelasan": "Tepat! Menjatuhkan mental/bakat seseorang."
+    },
+    {
+      "username": "@osis_sekolah",
+      "isiPost": "Pendaftaran calon pengurus OSIS baru resmi dibuka mulai hari ini.",
+      "isBullying": false,
+      "penjelasan": "Tepat! Pengumuman resmi OSIS sekolah."
+    }
+  ]
+}
