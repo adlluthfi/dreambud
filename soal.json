@@ -1,303 +1,495 @@
 {
   "npcDataList": [
     {
-      "npcID": "NPC_Mtk",
+      "npcID": "NPC_Mtk_1",
       "daftarLevel": [
-        {
-          "level": 1,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Berapakah hasil dari 245 + 378?", "jawabanBenar": "623" },
-            { "pertanyaan": "Berapakah hasil dari 900 - 356?", "jawabanBenar": "544" },
-            { "pertanyaan": "Berapakah hasil dari 12 x 8?", "jawabanBenar": "96" },
-            { "pertanyaan": "Berapakah hasil dari 144 : 12?", "jawabanBenar": "12" },
-            { "pertanyaan": "Bilangan 3.500 dibaca sebagai apa? (tulis dalam kata)", "jawabanBenar": "tiga ribu lima ratus" },
-            { "pertanyaan": "Berapakah nilai tempat angka 7 pada bilangan 4.752?", "jawabanBenar": "ratusan" },
-            { "pertanyaan": "Bentuk pecahan dari 0,5 adalah...", "jawabanBenar": "1/2" },
-            { "pertanyaan": "Berapakah hasil dari 1/4 + 1/4?", "jawabanBenar": "1/2" },
-            { "pertanyaan": "Sebuah persegi panjang memiliki panjang 12 cm dan lebar 4 cm. Berapakah kelilingnya?", "jawabanBenar": "32" },
-            { "pertanyaan": "Berapakah hasil dari 25 x 4?", "jawabanBenar": "100" }
-          ]
-        },
-        {
-          "level": 2,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Berapakah hasil dari 15 x 4 + 10?", "jawabanBenar": "70" },
-            { "pertanyaan": "Jika sebuah persegi memiliki panjang sisi 8 cm, berapakah kelilingnya?", "jawabanBenar": "32" },
-            { "pertanyaan": "Berapakah hasil dari 100 : 4 - 5?", "jawabanBenar": "20" },
-            { "pertanyaan": "Berapakah jumlah total sudut dalam sebuah segitiga?", "jawabanBenar": "180" },
-            { "pertanyaan": "Sebuah persegi panjang memiliki panjang 10 cm dan lebar 5 cm. Berapakah luasnya?", "jawabanBenar": "50" },
-            { "pertanyaan": "Berapakah hasil dari 3/4 - 1/2?", "jawabanBenar": "1/4" },
-            { "pertanyaan": "Berapakah KPK dari 4 dan 6?", "jawabanBenar": "12" },
-            { "pertanyaan": "Berapakah FPB dari 12 dan 18?", "jawabanBenar": "6" },
-            { "pertanyaan": "Sebuah segitiga memiliki alas 10 cm dan tinggi 6 cm. Berapakah luasnya?", "jawabanBenar": "30" },
-            { "pertanyaan": "Berapakah hasil dari 2,5 + 3,75?", "jawabanBenar": "6.25" }
-          ]
-        },
-        {
-          "level": 3,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Berapakah nilai akar kuadrat dari 81?", "jawabanBenar": "9" },
-            { "pertanyaan": "Berapakah hasil dari 25 + 35 - 15?", "jawabanBenar": "45" },
-            { "pertanyaan": "Sebuah lingkaran memiliki jari-jari 7 cm. Berapakah kelilingnya? (gunakan phi = 22/7)", "jawabanBenar": "44" },
-            { "pertanyaan": "Berapakah hasil perpangkatan dari 5 pangkat 3?", "jawabanBenar": "125" },
-            { "pertanyaan": "Jika x + 7 = 15, berapakah nilai x?", "jawabanBenar": "8" },
-            { "pertanyaan": "Sebuah balok memiliki panjang 5 cm, lebar 4 cm, dan tinggi 3 cm. Berapakah volumenya?", "jawabanBenar": "60" },
-            { "pertanyaan": "Berapakah hasil dari 2/3 x 3/4?", "jawabanBenar": "1/2" },
-            { "pertanyaan": "Sebuah kubus memiliki panjang rusuk 6 cm. Berapakah volumenya?", "jawabanBenar": "216" },
-            { "pertanyaan": "Rata-rata dari bilangan 6, 8, 10, dan 12 adalah...", "jawabanBenar": "9" },
-            { "pertanyaan": "Berapakah hasil dari 40% dari 250?", "jawabanBenar": "100" }
-          ]
-        }
+        { "level": 1, "daftarPertanyaan": [
+          { "pertanyaan": "Berapakah hasil dari 245 + 378?", "jawabanBenar": "623" },
+          { "pertanyaan": "Berapakah hasil dari 900 - 356?", "jawabanBenar": "544" },
+          { "pertanyaan": "Berapakah hasil dari 12 x 8?", "jawabanBenar": "96" },
+          { "pertanyaan": "Berapakah hasil dari 144 : 12?", "jawabanBenar": "12" },
+          { "pertanyaan": "Bilangan 3.500 dibaca sebagai apa? (tulis dalam kata)", "jawabanBenar": "tiga ribu lima ratus" },
+          { "pertanyaan": "Berapakah nilai tempat angka 7 pada bilangan 4.752?", "jawabanBenar": "ratusan" },
+          { "pertanyaan": "Bentuk pecahan dari 0,5 adalah...", "jawabanBenar": "1/2" },
+          { "pertanyaan": "Berapakah hasil dari 1/4 + 1/4?", "jawabanBenar": "1/2" },
+          { "pertanyaan": "Sebuah persegi panjang memiliki panjang 12 cm dan lebar 4 cm. Berapakah kelilingnya?", "jawabanBenar": "32" },
+          { "pertanyaan": "Berapakah hasil dari 25 x 4?", "jawabanBenar": "100" }
+        ]},
+        { "level": 2, "daftarPertanyaan": [
+          { "pertanyaan": "Berapakah hasil dari 15 x 4 + 10?", "jawabanBenar": "70" },
+          { "pertanyaan": "Jika sebuah persegi memiliki panjang sisi 8 cm, berapakah kelilingnya?", "jawabanBenar": "32" },
+          { "pertanyaan": "Berapakah hasil dari 100 : 4 - 5?", "jawabanBenar": "20" },
+          { "pertanyaan": "Berapakah jumlah total sudut dalam sebuah segitiga?", "jawabanBenar": "180" },
+          { "pertanyaan": "Sebuah persegi panjang memiliki panjang 10 cm dan lebar 5 cm. Berapakah luasnya?", "jawabanBenar": "50" },
+          { "pertanyaan": "Berapakah hasil dari 3/4 - 1/2?", "jawabanBenar": "1/4" },
+          { "pertanyaan": "Berapakah KPK dari 4 dan 6?", "jawabanBenar": "12" },
+          { "pertanyaan": "Berapakah FPB dari 12 dan 18?", "jawabanBenar": "6" },
+          { "pertanyaan": "Sebuah segitiga memiliki alas 10 cm dan tinggi 6 cm. Berapakah luasnya?", "jawabanBenar": "30" },
+          { "pertanyaan": "Berapakah hasil dari 2,5 + 3,75?", "jawabanBenar": "6.25" }
+        ]},
+        { "level": 3, "daftarPertanyaan": [
+          { "pertanyaan": "Berapakah nilai akar kuadrat dari 81?", "jawabanBenar": "9" },
+          { "pertanyaan": "Berapakah hasil dari 25 + 35 - 15?", "jawabanBenar": "45" },
+          { "pertanyaan": "Sebuah lingkaran memiliki jari-jari 7 cm. Berapakah kelilingnya? (gunakan phi = 22/7)", "jawabanBenar": "44" },
+          { "pertanyaan": "Berapakah hasil perpangkatan dari 5 pangkat 3?", "jawabanBenar": "125" },
+          { "pertanyaan": "Jika x + 7 = 15, berapakah nilai x?", "jawabanBenar": "8" },
+          { "pertanyaan": "Sebuah balok memiliki panjang 5 cm, lebar 4 cm, dan tinggi 3 cm. Berapakah volumenya?", "jawabanBenar": "60" },
+          { "pertanyaan": "Berapakah hasil dari 2/3 x 3/4?", "jawabanBenar": "1/2" },
+          { "pertanyaan": "Sebuah kubus memiliki panjang rusuk 6 cm. Berapakah volumenya?", "jawabanBenar": "216" },
+          { "pertanyaan": "Rata-rata dari bilangan 6, 8, 10, dan 12 adalah...", "jawabanBenar": "9" },
+          { "pertanyaan": "Berapakah hasil dari 40% dari 250?", "jawabanBenar": "100" }
+        ]}
       ]
     },
     {
-      "npcID": "NPC_IPA",
+      "npcID": "NPC_Mtk_2",
       "daftarLevel": [
-        {
-          "level": 1,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Apa nama gas yang dihirup oleh manusia saat bernapas?", "jawabanBenar": "oksigen" },
-            { "pertanyaan": "Tumbuhan hijau dapat membuat makanannya sendiri melalui proses yang disebut apa?", "jawabanBenar": "fotosintesis" },
-            { "pertanyaan": "Planet manakah yang mendapat julukan sebagai 'Planet Merah' di tata surya kita?", "jawabanBenar": "mars" },
-            { "pertanyaan": "Zat hijau daun yang berfungsi menyerap cahaya matahari saat fotosintesis disebut apa?", "jawabanBenar": "klorofil" },
-            { "pertanyaan": "Perubahan wujud zat dari cair menjadi gas disebut apa?", "jawabanBenar": "menguap" },
-            { "pertanyaan": "Bagian tumbuhan yang berfungsi menyerap air dan mineral dari tanah adalah...", "jawabanBenar": "akar" },
-            { "pertanyaan": "Hewan yang mengalami metamorfosis dari ulat menjadi kupu-kupu disebut mengalami...", "jawabanBenar": "metamorfosis sempurna" },
-            { "pertanyaan": "Alat pernapasan yang digunakan oleh ikan adalah...", "jawabanBenar": "insang" },
-            { "pertanyaan": "Sumber energi utama bagi kehidupan di bumi adalah...", "jawabanBenar": "matahari" },
-            { "pertanyaan": "Apa nama proses perubahan wujud dari padat menjadi cair?", "jawabanBenar": "mencair" }
-          ]
-        },
-        {
-          "level": 2,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Apa nama organ tubuh manusia yang berfungsi memompa darah ke seluruh tubuh?", "jawabanBenar": "jantung" },
-            { "pertanyaan": "Berapakah suhu titik didih air pada tekanan udara normal?", "jawabanBenar": "100" },
-            { "pertanyaan": "Hewan yang memakan tumbuhan saja disebut hewan apa?", "jawabanBenar": "herbivora" },
-            { "pertanyaan": "Alat yang digunakan untuk mengukur suhu udara adalah...", "jawabanBenar": "termometer" },
-            { "pertanyaan": "Bagian sel tumbuhan yang memberi bentuk dan perlindungan paling luar adalah...", "jawabanBenar": "dinding sel" },
-            { "pertanyaan": "Organ pernapasan utama pada manusia adalah...", "jawabanBenar": "paru-paru" },
-            { "pertanyaan": "Proses perpindahan panas tanpa melalui zat perantara disebut...", "jawabanBenar": "radiasi" },
-            { "pertanyaan": "Gaya yang menyebabkan benda jatuh ke bumi disebut gaya...", "jawabanBenar": "gravitasi" },
-            { "pertanyaan": "Hewan yang berkembang biak dengan cara bertelur disebut...", "jawabanBenar": "ovipar" },
-            { "pertanyaan": "Bagian tumbuhan yang berfungsi sebagai alat perkembangbiakan adalah...", "jawabanBenar": "bunga" }
-          ]
-        },
-        {
-          "level": 3,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Apa nama proses peredaran air yang terus-menerus dari bumi ke atmosfer dan kembali lagi?", "jawabanBenar": "siklus air" },
-            { "pertanyaan": "Rantai makanan diawali oleh organisme yang disebut...", "jawabanBenar": "produsen" },
-            { "pertanyaan": "Alat pernapasan yang digunakan oleh cacing tanah adalah...", "jawabanBenar": "kulit" },
-            { "pertanyaan": "Apa nama gaya yang timbul akibat gesekan dua permukaan benda?", "jawabanBenar": "gaya gesek" },
-            { "pertanyaan": "Peristiwa perpindahan energi panas melalui zat perantara tanpa disertai perpindahan partikelnya disebut...", "jawabanBenar": "konduksi" },
-            { "pertanyaan": "Organ tubuh yang berfungsi menyaring darah dan mengeluarkan urine adalah...", "jawabanBenar": "ginjal" },
-            { "pertanyaan": "Hewan yang mengalami metamorfosis tidak sempurna adalah contohnya...", "jawabanBenar": "belalang" },
-            { "pertanyaan": "Apa nama gerhana yang terjadi ketika bulan berada di antara matahari dan bumi?", "jawabanBenar": "gerhana matahari" },
-            { "pertanyaan": "Perubahan wujud dari gas menjadi cair disebut...", "jawabanBenar": "mengembun" },
-            { "pertanyaan": "Alat yang digunakan untuk mengukur kekuatan gempa bumi disebut...", "jawabanBenar": "seismograf" }
-          ]
-        }
+        { "level": 1, "daftarPertanyaan": [
+          { "pertanyaan": "Berapakah hasil dari 356 + 219?", "jawabanBenar": "575" },
+          { "pertanyaan": "Berapakah hasil dari 800 - 275?", "jawabanBenar": "525" },
+          { "pertanyaan": "Berapakah hasil dari 14 x 6?", "jawabanBenar": "84" },
+          { "pertanyaan": "Berapakah hasil dari 108 : 9?", "jawabanBenar": "12" },
+          { "pertanyaan": "Bilangan 2.750 dibaca sebagai apa? (tulis dalam kata)", "jawabanBenar": "dua ribu tujuh ratus lima puluh" },
+          { "pertanyaan": "Berapakah nilai tempat angka 5 pada bilangan 5.128?", "jawabanBenar": "ribuan" },
+          { "pertanyaan": "Bentuk pecahan dari 0,25 adalah...", "jawabanBenar": "1/4" },
+          { "pertanyaan": "Berapakah hasil dari 2/5 + 1/5?", "jawabanBenar": "3/5" },
+          { "pertanyaan": "Sebuah persegi memiliki panjang sisi 9 cm. Berapakah kelilingnya?", "jawabanBenar": "36" },
+          { "pertanyaan": "Berapakah hasil dari 15 x 6?", "jawabanBenar": "90" }
+        ]},
+        { "level": 2, "daftarPertanyaan": [
+          { "pertanyaan": "Berapakah hasil dari 20 x 3 + 15?", "jawabanBenar": "75" },
+          { "pertanyaan": "Jika sebuah persegi panjang memiliki panjang 9 cm dan lebar 6 cm, berapakah kelilingnya?", "jawabanBenar": "30" },
+          { "pertanyaan": "Berapakah hasil dari 90 : 3 + 10?", "jawabanBenar": "40" },
+          { "pertanyaan": "Berapakah jumlah total sudut dalam sebuah segi empat?", "jawabanBenar": "360" },
+          { "pertanyaan": "Sebuah persegi memiliki panjang sisi 6 cm. Berapakah luasnya?", "jawabanBenar": "36" },
+          { "pertanyaan": "Berapakah hasil dari 5/6 - 1/3?", "jawabanBenar": "1/2" },
+          { "pertanyaan": "Berapakah KPK dari 6 dan 8?", "jawabanBenar": "24" },
+          { "pertanyaan": "Berapakah FPB dari 16 dan 24?", "jawabanBenar": "8" },
+          { "pertanyaan": "Sebuah segitiga memiliki alas 8 cm dan tinggi 5 cm. Berapakah luasnya?", "jawabanBenar": "20" },
+          { "pertanyaan": "Berapakah hasil dari 1,5 + 2,25?", "jawabanBenar": "3.75" }
+        ]},
+        { "level": 3, "daftarPertanyaan": [
+          { "pertanyaan": "Berapakah nilai akar kuadrat dari 144?", "jawabanBenar": "12" },
+          { "pertanyaan": "Berapakah hasil dari 45 + 20 - 30?", "jawabanBenar": "35" },
+          { "pertanyaan": "Sebuah lingkaran memiliki diameter 14 cm. Berapakah kelilingnya? (gunakan phi = 22/7)", "jawabanBenar": "44" },
+          { "pertanyaan": "Berapakah hasil perpangkatan dari 4 pangkat 3?", "jawabanBenar": "64" },
+          { "pertanyaan": "Jika x - 5 = 12, berapakah nilai x?", "jawabanBenar": "17" },
+          { "pertanyaan": "Sebuah balok memiliki panjang 6 cm, lebar 3 cm, dan tinggi 4 cm. Berapakah volumenya?", "jawabanBenar": "72" },
+          { "pertanyaan": "Berapakah hasil dari 3/5 x 2/3?", "jawabanBenar": "2/5" },
+          { "pertanyaan": "Sebuah kubus memiliki panjang rusuk 5 cm. Berapakah volumenya?", "jawabanBenar": "125" },
+          { "pertanyaan": "Rata-rata dari bilangan 4, 6, 8, dan 10 adalah...", "jawabanBenar": "7" },
+          { "pertanyaan": "Berapakah hasil dari 25% dari 200?", "jawabanBenar": "50" }
+        ]}
       ]
     },
     {
-      "npcID": "NPC_Indo",
+      "npcID": "NPC_IPA_1",
       "daftarLevel": [
-        {
-          "level": 1,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Apa sebutan untuk kata yang memiliki arti yang sama (padanan kata)?", "jawabanBenar": "sinonim" },
-            { "pertanyaan": "Sebutkan tokoh utama yang biasanya memiliki sifat baik dalam sebuah cerita!", "jawabanBenar": "protagonis" },
-            { "pertanyaan": "Apa sebutan untuk lawan kata (kata yang berlawanan arti)?", "jawabanBenar": "antonim" },
-            { "pertanyaan": "Kalimat yang mengandung perintah atau ajakan disebut kalimat apa?", "jawabanBenar": "imperatif" },
-            { "pertanyaan": "Apa sebutan untuk ide pokok atau gagasan utama dalam sebuah paragraf?", "jawabanBenar": "pikiran utama" },
-            { "pertanyaan": "Kalimat yang digunakan untuk menyampaikan berita atau informasi disebut kalimat...", "jawabanBenar": "berita" },
-            { "pertanyaan": "Kata yang menunjukkan nama orang, tempat, atau benda disebut kata...", "jawabanBenar": "benda" },
-            { "pertanyaan": "Karangan yang berisi urutan langkah untuk melakukan sesuatu disebut teks...", "jawabanBenar": "prosedur" },
-            { "pertanyaan": "Bagian awal sebuah surat yang berisi tanggal dan tempat penulisan disebut...", "jawabanBenar": "tanggal surat" },
-            { "pertanyaan": "Apa sebutan untuk kalimat yang menanyakan sesuatu?", "jawabanBenar": "kalimat tanya" }
-          ]
-        },
-        {
-          "level": 2,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Karya sastra berbentuk puisi lama yang terdiri dari 4 baris berima a-b-a-b disebut apa?", "jawabanBenar": "pantun" },
-            { "pertanyaan": "Tokoh penentang atau penjahat dalam sebuah cerita dinamakan tokoh apa?", "jawabanBenar": "antagonis" },
-            { "pertanyaan": "Apa nama majas yang membandingkan benda mati seolah-olah memiliki sifat seperti manusia?", "jawabanBenar": "personifikasi" },
-            { "pertanyaan": "Cerita rakyat yang mengisahkan tentang asal-usul terjadinya suatu tempat dinamakan apa?", "jawabanBenar": "legenda" },
-            { "pertanyaan": "Imbuhan yang diletakkan di awal kata dasar disebut apa?", "jawabanBenar": "awalan" },
-            { "pertanyaan": "Kesimpulan yang ditarik dari isi sebuah bacaan disebut...", "jawabanBenar": "simpulan" },
-            { "pertanyaan": "Bagian cerita yang menjelaskan waktu dan tempat terjadinya peristiwa disebut...", "jawabanBenar": "latar" },
-            { "pertanyaan": "Kalimat utama biasanya terletak di awal atau akhir sebuah...", "jawabanBenar": "paragraf" },
-            { "pertanyaan": "Ungkapan yang maknanya tidak sesuai dengan makna kata penyusunnya disebut...", "jawabanBenar": "idiom" },
-            { "pertanyaan": "Puisi baru yang tidak terikat oleh aturan jumlah baris dan rima disebut...", "jawabanBenar": "puisi bebas" }
-          ]
-        },
-        {
-          "level": 3,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Apa sebutan untuk alur cerita yang diceritakan secara berurutan dari awal hingga akhir?", "jawabanBenar": "alur maju" },
-            { "pertanyaan": "Karya sastra lama berbentuk cerita yang menceritakan kehidupan hewan yang berperilaku seperti manusia disebut...", "jawabanBenar": "fabel" },
-            { "pertanyaan": "Nilai yang dapat dipetik atau dipelajari dari sebuah cerita disebut...", "jawabanBenar": "amanat" },
-            { "pertanyaan": "Kata ulang yang menunjukkan makna banyak, seperti 'buku-buku', disebut kata ulang...", "jawabanBenar": "utuh" },
-            { "pertanyaan": "Teks yang bertujuan untuk menggambarkan suatu objek secara rinci agar pembaca seolah melihat sendiri disebut teks...", "jawabanBenar": "deskripsi" },
-            { "pertanyaan": "Apa sebutan untuk sudut pandang cerita ketika pengarang menggunakan kata 'aku' sebagai tokoh utama?", "jawabanBenar": "sudut pandang orang pertama" },
-            { "pertanyaan": "Kalimat yang tersusun dari lebih dari satu klausa dan digabung dengan kata hubung disebut kalimat...", "jawabanBenar": "majemuk" },
-            { "pertanyaan": "Naskah yang berisi dialog untuk dipentaskan di atas panggung disebut...", "jawabanBenar": "drama" },
-            { "pertanyaan": "Apa sebutan untuk bagian akhir cerita yang berisi penyelesaian masalah?", "jawabanBenar": "resolusi" },
-            { "pertanyaan": "Kata yang mengalami perubahan bentuk karena mendapat imbuhan disebut kata...", "jawabanBenar": "berimbuhan" }
-          ]
-        }
+        { "level": 1, "daftarPertanyaan": [
+          { "pertanyaan": "Apa nama gas yang dihirup oleh manusia saat bernapas?", "jawabanBenar": "oksigen" },
+          { "pertanyaan": "Tumbuhan hijau dapat membuat makanannya sendiri melalui proses yang disebut apa?", "jawabanBenar": "fotosintesis" },
+          { "pertanyaan": "Planet manakah yang mendapat julukan sebagai 'Planet Merah' di tata surya kita?", "jawabanBenar": "mars" },
+          { "pertanyaan": "Zat hijau daun yang berfungsi menyerap cahaya matahari saat fotosintesis disebut apa?", "jawabanBenar": "klorofil" },
+          { "pertanyaan": "Perubahan wujud zat dari cair menjadi gas disebut apa?", "jawabanBenar": "menguap" },
+          { "pertanyaan": "Bagian tumbuhan yang berfungsi menyerap air dan mineral dari tanah adalah...", "jawabanBenar": "akar" },
+          { "pertanyaan": "Hewan yang mengalami metamorfosis dari ulat menjadi kupu-kupu disebut mengalami...", "jawabanBenar": "metamorfosis sempurna" },
+          { "pertanyaan": "Alat pernapasan yang digunakan oleh ikan adalah...", "jawabanBenar": "insang" },
+          { "pertanyaan": "Sumber energi utama bagi kehidupan di bumi adalah...", "jawabanBenar": "matahari" },
+          { "pertanyaan": "Apa nama proses perubahan wujud dari padat menjadi cair?", "jawabanBenar": "mencair" }
+        ]},
+        { "level": 2, "daftarPertanyaan": [
+          { "pertanyaan": "Apa nama organ tubuh manusia yang berfungsi memompa darah ke seluruh tubuh?", "jawabanBenar": "jantung" },
+          { "pertanyaan": "Berapakah suhu titik didih air pada tekanan udara normal?", "jawabanBenar": "100" },
+          { "pertanyaan": "Hewan yang memakan tumbuhan saja disebut hewan apa?", "jawabanBenar": "herbivora" },
+          { "pertanyaan": "Alat yang digunakan untuk mengukur suhu udara adalah...", "jawabanBenar": "termometer" },
+          { "pertanyaan": "Bagian sel tumbuhan yang memberi bentuk dan perlindungan paling luar adalah...", "jawabanBenar": "dinding sel" },
+          { "pertanyaan": "Organ pernapasan utama pada manusia adalah...", "jawabanBenar": "paru-paru" },
+          { "pertanyaan": "Proses perpindahan panas tanpa melalui zat perantara disebut...", "jawabanBenar": "radiasi" },
+          { "pertanyaan": "Gaya yang menyebabkan benda jatuh ke bumi disebut gaya...", "jawabanBenar": "gravitasi" },
+          { "pertanyaan": "Hewan yang berkembang biak dengan cara bertelur disebut...", "jawabanBenar": "ovipar" },
+          { "pertanyaan": "Bagian tumbuhan yang berfungsi sebagai alat perkembangbiakan adalah...", "jawabanBenar": "bunga" }
+        ]},
+        { "level": 3, "daftarPertanyaan": [
+          { "pertanyaan": "Apa nama proses peredaran air yang terus-menerus dari bumi ke atmosfer dan kembali lagi?", "jawabanBenar": "siklus air" },
+          { "pertanyaan": "Rantai makanan diawali oleh organisme yang disebut...", "jawabanBenar": "produsen" },
+          { "pertanyaan": "Alat pernapasan yang digunakan oleh cacing tanah adalah...", "jawabanBenar": "kulit" },
+          { "pertanyaan": "Apa nama gaya yang timbul akibat gesekan dua permukaan benda?", "jawabanBenar": "gaya gesek" },
+          { "pertanyaan": "Peristiwa perpindahan energi panas melalui zat perantara tanpa disertai perpindahan partikelnya disebut...", "jawabanBenar": "konduksi" },
+          { "pertanyaan": "Organ tubuh yang berfungsi menyaring darah dan mengeluarkan urine adalah...", "jawabanBenar": "ginjal" },
+          { "pertanyaan": "Hewan yang mengalami metamorfosis tidak sempurna adalah contohnya...", "jawabanBenar": "belalang" },
+          { "pertanyaan": "Apa nama gerhana yang terjadi ketika bulan berada di antara matahari dan bumi?", "jawabanBenar": "gerhana matahari" },
+          { "pertanyaan": "Perubahan wujud dari gas menjadi cair disebut...", "jawabanBenar": "mengembun" },
+          { "pertanyaan": "Alat yang digunakan untuk mengukur kekuatan gempa bumi disebut...", "jawabanBenar": "seismograf" }
+        ]}
       ]
     },
     {
-      "npcID": "NPC_IPS",
+      "npcID": "NPC_IPA_2",
       "daftarLevel": [
-        {
-          "level": 1,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Samudra terluas yang ada di bumi adalah Samudra...", "jawabanBenar": "pasifik" },
-            { "pertanyaan": "Siapa nama tokoh yang membacakan naskah proklamasi kemerdekaan Indonesia pada tanggal 17 Agustus 1945?", "jawabanBenar": "soekarno" },
-            { "pertanyaan": "Apa nama benua terkecil di dunia?", "jawabanBenar": "australia" },
-            { "pertanyaan": "Kerajaan Hindu tertua di Indonesia adalah Kerajaan...", "jawabanBenar": "kutai" },
-            { "pertanyaan": "Mata uang resmi yang digunakan oleh negara Jepang adalah...", "jawabanBenar": "yen" },
-            { "pertanyaan": "Pulau terbesar di Indonesia adalah pulau...", "jawabanBenar": "kalimantan" },
-            { "pertanyaan": "Ibu kota negara Indonesia sebelum pindah ke Nusantara adalah...", "jawabanBenar": "jakarta" },
-            { "pertanyaan": "Gunung tertinggi di Indonesia adalah...", "jawabanBenar": "puncak jaya" },
-            { "pertanyaan": "Danau terluas di Indonesia adalah Danau...", "jawabanBenar": "toba" },
-            { "pertanyaan": "Indonesia terletak di antara dua benua, yaitu Asia dan...", "jawabanBenar": "australia" }
-          ]
-        },
-        {
-          "level": 2,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Apa nama garis khayal yang membagi bumi menjadi dua bagian, yaitu utara dan selatan?", "jawabanBenar": "khatulistiwa" },
-            { "pertanyaan": "Siapa pahlawan nasional dari Jepara yang memperjuangkan emansipasi wanita Indonesia?", "jawabanBenar": "kartini" },
-            { "pertanyaan": "Candi Buddha terbesar di Indonesia yang terletak di Magelang, Jawa Tengah adalah Candi...", "jawabanBenar": "borobudur" },
-            { "pertanyaan": "Kegiatan menyalurkan barang atau jasa dari produsen ke konsumen disebut apa?", "jawabanBenar": "distribusi" },
-            { "pertanyaan": "Negara tetangga Indonesia yang berbatasan darat langsung di pulau Kalimantan adalah...", "jawabanBenar": "malaysia" },
-            { "pertanyaan": "Organisasi pergerakan nasional pertama di Indonesia yang berdiri tahun 1908 adalah...", "jawabanBenar": "budi utomo" },
-            { "pertanyaan": "Kegiatan mengolah bahan mentah menjadi barang jadi disebut kegiatan...", "jawabanBenar": "produksi" },
-            { "pertanyaan": "Suku bangsa asli yang mendiami Pulau Papua adalah suku...", "jawabanBenar": "dani" },
-            { "pertanyaan": "Presiden pertama Republik Indonesia adalah...", "jawabanBenar": "soekarno" },
-            { "pertanyaan": "Alat tukar yang sah digunakan dalam kegiatan jual beli disebut...", "jawabanBenar": "uang" }
-          ]
-        },
-        {
-          "level": 3,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Organisasi pemuda yang mengikrarkan Sumpah Pemuda pada tanggal 28 Oktober 1928 diselenggarakan di kota...", "jawabanBenar": "jakarta" },
-            { "pertanyaan": "Kerajaan maritim terbesar di Nusantara yang berpusat di Sumatra adalah Kerajaan...", "jawabanBenar": "sriwijaya" },
-            { "pertanyaan": "Perjanjian yang mengakhiri masa penjajahan Belanda dan mengakui kedaulatan Indonesia adalah Konferensi...", "jawabanBenar": "meja bundar" },
-            { "pertanyaan": "Kegiatan ekonomi yang bertujuan memenuhi kebutuhan dengan menggunakan barang atau jasa disebut kegiatan...", "jawabanBenar": "konsumsi" },
-            { "pertanyaan": "Bentuk kerja sama antarnegara-negara Asia Tenggara disebut...", "jawabanBenar": "asean" },
-            { "pertanyaan": "Tokoh yang dikenal sebagai Bapak Pendidikan Nasional Indonesia adalah...", "jawabanBenar": "ki hajar dewantara" },
-            { "pertanyaan": "Peristiwa perpindahan penduduk dari daerah padat ke daerah yang lebih jarang penduduknya di Indonesia disebut...", "jawabanBenar": "transmigrasi" },
-            { "pertanyaan": "Badan yang merumuskan dasar negara Indonesia sebelum kemerdekaan disebut...", "jawabanBenar": "bpupki" },
-            { "pertanyaan": "Komoditas rempah-rempah yang menjadi daya tarik bangsa Eropa datang ke Nusantara antara lain adalah...", "jawabanBenar": "cengkeh" },
-            { "pertanyaan": "Sistem tanam paksa yang diterapkan Belanda di Indonesia disebut...", "jawabanBenar": "cultuurstelsel" }
-          ]
-        }
+        { "level": 1, "daftarPertanyaan": [
+          { "pertanyaan": "Apa nama gas yang dikeluarkan tumbuhan saat fotosintesis?", "jawabanBenar": "oksigen" },
+          { "pertanyaan": "Bagian tumbuhan yang berfungsi sebagai tempat fotosintesis utama adalah...", "jawabanBenar": "daun" },
+          { "pertanyaan": "Planet terbesar di tata surya kita adalah...", "jawabanBenar": "jupiter" },
+          { "pertanyaan": "Batang tumbuhan berfungsi untuk mengangkut air dari akar menuju...", "jawabanBenar": "daun" },
+          { "pertanyaan": "Perubahan wujud zat dari gas menjadi padat disebut apa?", "jawabanBenar": "mengkristal" },
+          { "pertanyaan": "Bagian bunga yang mengandung sel kelamin jantan disebut...", "jawabanBenar": "benang sari" },
+          { "pertanyaan": "Hewan yang mengalami perubahan bentuk dari telur menjadi berudu lalu menjadi katak disebut mengalami...", "jawabanBenar": "metamorfosis" },
+          { "pertanyaan": "Alat pernapasan yang digunakan oleh manusia adalah...", "jawabanBenar": "paru-paru" },
+          { "pertanyaan": "Bahan makanan pokok yang mengandung banyak karbohidrat contohnya adalah...", "jawabanBenar": "nasi" },
+          { "pertanyaan": "Apa nama proses perubahan wujud dari cair menjadi padat?", "jawabanBenar": "membeku" }
+        ]},
+        { "level": 2, "daftarPertanyaan": [
+          { "pertanyaan": "Apa nama organ tubuh manusia yang berfungsi mencerna makanan?", "jawabanBenar": "lambung" },
+          { "pertanyaan": "Berapakah suhu titik beku air pada tekanan udara normal?", "jawabanBenar": "0" },
+          { "pertanyaan": "Hewan yang memakan daging saja disebut hewan apa?", "jawabanBenar": "karnivora" },
+          { "pertanyaan": "Alat yang digunakan untuk mengukur kelembapan udara adalah...", "jawabanBenar": "higrometer" },
+          { "pertanyaan": "Bagian sel yang berfungsi sebagai pusat pengendali sel disebut...", "jawabanBenar": "inti sel" },
+          { "pertanyaan": "Organ tubuh yang berfungsi menyaring udara pernapasan dari kotoran adalah...", "jawabanBenar": "hidung" },
+          { "pertanyaan": "Proses perpindahan panas melalui aliran zat disebut...", "jawabanBenar": "konveksi" },
+          { "pertanyaan": "Gaya yang digunakan untuk menarik benda logam disebut gaya...", "jawabanBenar": "magnet" },
+          { "pertanyaan": "Hewan yang melahirkan anaknya secara langsung disebut...", "jawabanBenar": "vivipar" },
+          { "pertanyaan": "Bagian tumbuhan yang menyimpan cadangan makanan pada wortel adalah...", "jawabanBenar": "akar" }
+        ]},
+        { "level": 3, "daftarPertanyaan": [
+          { "pertanyaan": "Apa nama proses tumbuhan mengeluarkan uap air melalui daun?", "jawabanBenar": "transpirasi" },
+          { "pertanyaan": "Konsumen tingkat pertama dalam rantai makanan biasanya adalah hewan...", "jawabanBenar": "herbivora" },
+          { "pertanyaan": "Alat pernapasan yang digunakan oleh serangga adalah...", "jawabanBenar": "trakea" },
+          { "pertanyaan": "Apa nama gaya yang membuat benda bergerak melingkar tetap berada pada lintasannya?", "jawabanBenar": "gaya sentripetal" },
+          { "pertanyaan": "Peristiwa berpindahnya panas melalui pancaran tanpa zat perantara disebut...", "jawabanBenar": "radiasi" },
+          { "pertanyaan": "Organ tubuh yang berfungsi menyimpan dan mengeluarkan empedu adalah...", "jawabanBenar": "hati" },
+          { "pertanyaan": "Hewan yang mengalami metamorfosis sempurna contohnya adalah...", "jawabanBenar": "kupu-kupu" },
+          { "pertanyaan": "Apa nama gerhana yang terjadi ketika bumi berada di antara matahari dan bulan?", "jawabanBenar": "gerhana bulan" },
+          { "pertanyaan": "Perubahan wujud dari padat langsung menjadi gas disebut...", "jawabanBenar": "menyublim" },
+          { "pertanyaan": "Alat yang digunakan untuk mengukur kecepatan angin disebut...", "jawabanBenar": "anemometer" }
+        ]}
       ]
     },
     {
-      "npcID": "NPC_PKN",
+      "npcID": "NPC_Indo_1",
       "daftarLevel": [
-        {
-          "level": 1,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Apa semboyan negara Indonesia yang tertulis pada kaki burung Garuda Pancasila?", "jawabanBenar": "bhinneka tunggal ika" },
-            { "pertanyaan": "Sila pertama dalam Pancasila dilambangkan dengan simbol apa?", "jawabanBenar": "bintang" },
-            { "pertanyaan": "Apa dasar negara Republik Indonesia?", "jawabanBenar": "pancasila" },
-            { "pertanyaan": "Berapakah jumlah bulu pada leher burung Garuda Pancasila?", "jawabanBenar": "45" },
-            { "pertanyaan": "Hari Lahir Pancasila diperingati setiap tanggal berapa? (Contoh: 1 Juni)", "jawabanBenar": "1 juni" },
-            { "pertanyaan": "Apa nama bendera kebangsaan Indonesia?", "jawabanBenar": "merah putih" },
-            { "pertanyaan": "Apa lagu kebangsaan negara Indonesia?", "jawabanBenar": "indonesia raya" },
-            { "pertanyaan": "Sila kedua Pancasila berbunyi 'Kemanusiaan yang adil dan...'", "jawabanBenar": "beradab" },
-            { "pertanyaan": "Apa nama lambang negara Indonesia?", "jawabanBenar": "garuda pancasila" },
-            { "pertanyaan": "Hak untuk mendapatkan pendidikan merupakan salah satu contoh hak...", "jawabanBenar": "warga negara" }
-          ]
-        },
-        {
-          "level": 2,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Apa nama hukum dasar tertulis tertinggi di negara Indonesia?", "jawabanBenar": "uud 1945" },
-            { "pertanyaan": "Lembaga tinggi negara yang bertugas membuat undang-undang bersama Presiden adalah...", "jawabanBenar": "dpr" },
-            { "pertanyaan": "Sikap menghargai dan menghormati perbedaan agama, suku, dan budaya disebut sikap...", "jawabanBenar": "toleransi" },
-            { "pertanyaan": "Apa lambang dari sila kelima Pancasila?", "jawabanBenar": "padi dan kapas" },
-            { "pertanyaan": "Keputusan bersama dalam musyawarah sebaiknya diambil berdasarkan prinsip apa?", "jawabanBenar": "mufakat" },
-            { "pertanyaan": "Kewajiban yang harus dilaksanakan sebelum menuntut hak disebut...", "jawabanBenar": "kewajiban" },
-            { "pertanyaan": "Sila keempat Pancasila dilambangkan dengan simbol...", "jawabanBenar": "kepala banteng" },
-            { "pertanyaan": "Norma yang bersumber dari hati nurani manusia disebut norma...", "jawabanBenar": "kesusilaan" },
-            { "pertanyaan": "Sikap rela berkorban demi kepentingan bangsa dan negara disebut sikap...", "jawabanBenar": "cinta tanah air" },
-            { "pertanyaan": "Musyawarah yang dilakukan untuk mencapai kesepakatan bersama disebut musyawarah...", "jawabanBenar": "mufakat" }
-          ]
-        },
-        {
-          "level": 3,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Lembaga negara yang memiliki wewenang mengubah dan menetapkan UUD adalah...", "jawabanBenar": "mpr" },
-            { "pertanyaan": "Sistem pemerintahan yang dianut Indonesia dimana kekuasaan dijalankan oleh rakyat disebut...", "jawabanBenar": "demokrasi" },
-            { "pertanyaan": "Norma yang mengatur perilaku manusia dan memiliki sanksi tegas dari negara disebut norma...", "jawabanBenar": "hukum" },
-            { "pertanyaan": "Prinsip yang menekankan bahwa semua warga negara memiliki kedudukan yang sama di mata hukum disebut...", "jawabanBenar": "persamaan hak" },
-            { "pertanyaan": "Apa nama sistem pembagian kekuasaan negara menjadi legislatif, eksekutif, dan yudikatif?", "jawabanBenar": "trias politika" },
-            { "pertanyaan": "Lembaga yang bertugas mengadili pelanggaran undang-undang di tingkat tertinggi adalah...", "jawabanBenar": "mahkamah agung" },
-            { "pertanyaan": "Upaya mempertahankan keutuhan wilayah Negara Kesatuan Republik Indonesia disebut...", "jawabanBenar": "bela negara" },
-            { "pertanyaan": "Sikap yang mengutamakan kepentingan bersama di atas kepentingan pribadi disebut...", "jawabanBenar": "gotong royong" },
-            { "pertanyaan": "Nilai yang terkandung dalam sila ketiga Pancasila adalah persatuan...", "jawabanBenar": "indonesia" },
-            { "pertanyaan": "Hak untuk memilih dan dipilih dalam pemilihan umum disebut hak...", "jawabanBenar": "politik" }
-          ]
-        }
+        { "level": 1, "daftarPertanyaan": [
+          { "pertanyaan": "Apa sebutan untuk kata yang memiliki arti yang sama (padanan kata)?", "jawabanBenar": "sinonim" },
+          { "pertanyaan": "Sebutkan tokoh utama yang biasanya memiliki sifat baik dalam sebuah cerita!", "jawabanBenar": "protagonis" },
+          { "pertanyaan": "Apa sebutan untuk lawan kata (kata yang berlawanan arti)?", "jawabanBenar": "antonim" },
+          { "pertanyaan": "Kalimat yang mengandung perintah atau ajakan disebut kalimat apa?", "jawabanBenar": "imperatif" },
+          { "pertanyaan": "Apa sebutan untuk ide pokok atau gagasan utama dalam sebuah paragraf?", "jawabanBenar": "pikiran utama" },
+          { "pertanyaan": "Kalimat yang digunakan untuk menyampaikan berita atau informasi disebut kalimat...", "jawabanBenar": "berita" },
+          { "pertanyaan": "Kata yang menunjukkan nama orang, tempat, atau benda disebut kata...", "jawabanBenar": "benda" },
+          { "pertanyaan": "Karangan yang berisi urutan langkah untuk melakukan sesuatu disebut teks...", "jawabanBenar": "prosedur" },
+          { "pertanyaan": "Bagian awal sebuah surat yang berisi tanggal dan tempat penulisan disebut...", "jawabanBenar": "tanggal surat" },
+          { "pertanyaan": "Apa sebutan untuk kalimat yang menanyakan sesuatu?", "jawabanBenar": "kalimat tanya" }
+        ]},
+        { "level": 2, "daftarPertanyaan": [
+          { "pertanyaan": "Karya sastra berbentuk puisi lama yang terdiri dari 4 baris berima a-b-a-b disebut apa?", "jawabanBenar": "pantun" },
+          { "pertanyaan": "Tokoh penentang atau penjahat dalam sebuah cerita dinamakan tokoh apa?", "jawabanBenar": "antagonis" },
+          { "pertanyaan": "Apa nama majas yang membandingkan benda mati seolah-olah memiliki sifat seperti manusia?", "jawabanBenar": "personifikasi" },
+          { "pertanyaan": "Cerita rakyat yang mengisahkan tentang asal-usul terjadinya suatu tempat dinamakan apa?", "jawabanBenar": "legenda" },
+          { "pertanyaan": "Imbuhan yang diletakkan di awal kata dasar disebut apa?", "jawabanBenar": "awalan" },
+          { "pertanyaan": "Kesimpulan yang ditarik dari isi sebuah bacaan disebut...", "jawabanBenar": "simpulan" },
+          { "pertanyaan": "Bagian cerita yang menjelaskan waktu dan tempat terjadinya peristiwa disebut...", "jawabanBenar": "latar" },
+          { "pertanyaan": "Kalimat utama biasanya terletak di awal atau akhir sebuah...", "jawabanBenar": "paragraf" },
+          { "pertanyaan": "Ungkapan yang maknanya tidak sesuai dengan makna kata penyusunnya disebut...", "jawabanBenar": "idiom" },
+          { "pertanyaan": "Puisi baru yang tidak terikat oleh aturan jumlah baris dan rima disebut...", "jawabanBenar": "puisi bebas" }
+        ]},
+        { "level": 3, "daftarPertanyaan": [
+          { "pertanyaan": "Apa sebutan untuk alur cerita yang diceritakan secara berurutan dari awal hingga akhir?", "jawabanBenar": "alur maju" },
+          { "pertanyaan": "Karya sastra lama berbentuk cerita yang menceritakan kehidupan hewan yang berperilaku seperti manusia disebut...", "jawabanBenar": "fabel" },
+          { "pertanyaan": "Nilai yang dapat dipetik atau dipelajari dari sebuah cerita disebut...", "jawabanBenar": "amanat" },
+          { "pertanyaan": "Kata ulang yang menunjukkan makna banyak, seperti 'buku-buku', disebut kata ulang...", "jawabanBenar": "utuh" },
+          { "pertanyaan": "Teks yang bertujuan untuk menggambarkan suatu objek secara rinci agar pembaca seolah melihat sendiri disebut teks...", "jawabanBenar": "deskripsi" },
+          { "pertanyaan": "Apa sebutan untuk sudut pandang cerita ketika pengarang menggunakan kata 'aku' sebagai tokoh utama?", "jawabanBenar": "sudut pandang orang pertama" },
+          { "pertanyaan": "Kalimat yang tersusun dari lebih dari satu klausa dan digabung dengan kata hubung disebut kalimat...", "jawabanBenar": "majemuk" },
+          { "pertanyaan": "Naskah yang berisi dialog untuk dipentaskan di atas panggung disebut...", "jawabanBenar": "drama" },
+          { "pertanyaan": "Apa sebutan untuk bagian akhir cerita yang berisi penyelesaian masalah?", "jawabanBenar": "resolusi" },
+          { "pertanyaan": "Kata yang mengalami perubahan bentuk karena mendapat imbuhan disebut kata...", "jawabanBenar": "berimbuhan" }
+        ]}
       ]
     },
     {
-      "npcID": "NPC_Inggris",
+      "npcID": "NPC_Indo_2",
       "daftarLevel": [
-        {
-          "level": 1,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Apa bahasa Inggris dari kata 'Matahari'?", "jawabanBenar": "sun" },
-            { "pertanyaan": "Terjemahkan kalimat berikut ke dalam bahasa Indonesia: 'She is reading a book.'", "jawabanBenar": "dia sedang membaca buku" },
-            { "pertanyaan": "Apa bahasa Inggris dari kata 'Buku'?", "jawabanBenar": "book" },
-            { "pertanyaan": "Apa arti dari kata 'Apple' dalam bahasa Indonesia?", "jawabanBenar": "apel" },
-            { "pertanyaan": "Terjemahkan kata 'Good morning' ke dalam bahasa Indonesia!", "jawabanBenar": "selamat pagi" },
-            { "pertanyaan": "Apa bahasa Inggris dari kata 'Kucing'?", "jawabanBenar": "cat" },
-            { "pertanyaan": "Apa bahasa Inggris dari kata 'Meja'?", "jawabanBenar": "table" },
-            { "pertanyaan": "Apa arti dari kata 'Water' dalam bahasa Indonesia?", "jawabanBenar": "air" },
-            { "pertanyaan": "Apa bahasa Inggris dari angka 'Lima'?", "jawabanBenar": "five" },
-            { "pertanyaan": "Apa bahasa Inggris dari kata 'Rumah'?", "jawabanBenar": "house" }
-          ]
-        },
-        {
-          "level": 2,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Apa lawan kata (opposite) dari kata 'Big' dalam bahasa Inggris?", "jawabanBenar": "small" },
-            { "pertanyaan": "Terjemahkan kalimat berikut: 'I love learning.'", "jawabanBenar": "saya suka belajar" },
-            { "pertanyaan": "Apa bahasa Inggris dari warna 'Hijau'?", "jawabanBenar": "green" },
-            { "pertanyaan": "Sebutkan bahasa Inggris dari bilangan 'Sepuluh'!", "jawabanBenar": "ten" },
-            { "pertanyaan": "Apa arti dari kalimat 'Thank you' dalam bahasa Indonesia?", "jawabanBenar": "terima kasih" },
-            { "pertanyaan": "Apa bentuk lampau (past tense) dari kata kerja 'Go'?", "jawabanBenar": "went" },
-            { "pertanyaan": "Terjemahkan kalimat: 'They are playing football.'", "jawabanBenar": "mereka sedang bermain sepak bola" },
-            { "pertanyaan": "Apa bahasa Inggris dari 'Hari Senin'?", "jawabanBenar": "monday" },
-            { "pertanyaan": "Apa lawan kata dari 'Hot' dalam bahasa Inggris?", "jawabanBenar": "cold" },
-            { "pertanyaan": "Apa bahasa Inggris dari kata 'Sekolah'?", "jawabanBenar": "school" }
-          ]
-        },
-        {
-          "level": 3,
-          "daftarPertanyaan": [
-            { "pertanyaan": "Terjemahkan kalimat berikut ke bahasa Inggris: 'Saya sedang mengerjakan pekerjaan rumah.'", "jawabanBenar": "i am doing my homework" },
-            { "pertanyaan": "Apa bentuk jamak (plural) dari kata 'Child'?", "jawabanBenar": "children" },
-            { "pertanyaan": "Isilah titik-titik: 'She ___ to school every day.' (menggunakan kata kerja yang benar)", "jawabanBenar": "goes" },
-            { "pertanyaan": "Apa bahasa Inggris dari 'Kemarin'?", "jawabanBenar": "yesterday" },
-            { "pertanyaan": "Terjemahkan kalimat: 'We will go to the beach tomorrow.'", "jawabanBenar": "kami akan pergi ke pantai besok" },
-            { "pertanyaan": "Apa bentuk lampau dari kata kerja 'Eat'?", "jawabanBenar": "ate" },
-            { "pertanyaan": "Apa arti dari kata 'Because' dalam bahasa Indonesia?", "jawabanBenar": "karena" },
-            { "pertanyaan": "Isilah titik-titik dengan kata tanya yang tepat: '___ is your name?'", "jawabanBenar": "what" },
-            { "pertanyaan": "Apa bahasa Inggris dari kalimat 'Berapa harganya?'", "jawabanBenar": "how much is it" },
-            { "pertanyaan": "Apa bentuk jamak dari kata 'Mouse'?", "jawabanBenar": "mice" }
-          ]
-        }
+        { "level": 1, "daftarPertanyaan": [
+          { "pertanyaan": "Apa sebutan untuk kalimat yang menyatakan perasaan senang, sedih, atau kagum?", "jawabanBenar": "kalimat seru" },
+          { "pertanyaan": "Kata yang menunjukkan suatu perbuatan atau tindakan disebut kata...", "jawabanBenar": "kerja" },
+          { "pertanyaan": "Apa sebutan untuk bagian cerita yang memperkenalkan tokoh dan latar di awal?", "jawabanBenar": "orientasi" },
+          { "pertanyaan": "Kata yang menerangkan sifat atau keadaan suatu benda disebut kata...", "jawabanBenar": "sifat" },
+          { "pertanyaan": "Apa sebutan untuk teks yang berisi fakta dan bertujuan memberikan informasi?", "jawabanBenar": "teks eksposisi" },
+          { "pertanyaan": "Huruf pertama pada nama orang dan tempat harus ditulis dengan huruf...", "jawabanBenar": "kapital" },
+          { "pertanyaan": "Apa sebutan untuk kalimat yang menyatakan pemberitahuan biasa?", "jawabanBenar": "kalimat berita" },
+          { "pertanyaan": "Karangan yang menceritakan pengalaman pribadi penulis disebut...", "jawabanBenar": "cerita pengalaman" },
+          { "pertanyaan": "Apa sebutan untuk bagian penutup dalam sebuah surat?", "jawabanBenar": "salam penutup" },
+          { "pertanyaan": "Kata tanya yang digunakan untuk menanyakan tempat adalah...", "jawabanBenar": "di mana" }
+        ]},
+        { "level": 2, "daftarPertanyaan": [
+          { "pertanyaan": "Peribahasa yang berarti sekali melakukan pekerjaan, dua atau tiga tujuan tercapai disebut...", "jawabanBenar": "sekali dayung dua tiga pulau terlampaui" },
+          { "pertanyaan": "Apa sebutan untuk karya sastra lama yang berisi nasihat dan berima a-a-a-a?", "jawabanBenar": "syair" },
+          { "pertanyaan": "Majas yang membandingkan dua hal secara langsung menggunakan kata 'seperti' atau 'bagai' disebut...", "jawabanBenar": "simile" },
+          { "pertanyaan": "Bagian cerita yang berisi puncak masalah atau ketegangan disebut...", "jawabanBenar": "klimaks" },
+          { "pertanyaan": "Imbuhan yang diletakkan di akhir kata dasar disebut apa?", "jawabanBenar": "akhiran" },
+          { "pertanyaan": "Apa sebutan untuk kalimat yang berisi dua peristiwa yang saling berlawanan?", "jawabanBenar": "kalimat pertentangan" },
+          { "pertanyaan": "Ringkasan singkat dari sebuah cerita atau buku disebut...", "jawabanBenar": "sinopsis" },
+          { "pertanyaan": "Kalimat penjelas berfungsi untuk mendukung kalimat...", "jawabanBenar": "utama" },
+          { "pertanyaan": "Gabungan dua kata yang membentuk makna baru disebut kata...", "jawabanBenar": "majemuk" },
+          { "pertanyaan": "Apa sebutan untuk puisi rakyat yang berisi teka-teki dan jenaka?", "jawabanBenar": "teka-teki" }
+        ]},
+        { "level": 3, "daftarPertanyaan": [
+          { "pertanyaan": "Apa sebutan untuk alur cerita yang menceritakan masa lalu di tengah cerita?", "jawabanBenar": "alur mundur" },
+          { "pertanyaan": "Cerita rakyat yang mengisahkan kehidupan tokoh sakti atau pahlawan disebut...", "jawabanBenar": "hikayat" },
+          { "pertanyaan": "Sudut pandang cerita saat pengarang bertindak sebagai pengamat yang menggunakan kata 'dia' disebut sudut pandang orang...", "jawabanBenar": "ketiga" },
+          { "pertanyaan": "Kata ulang yang mengalami perubahan bunyi, seperti 'sayur-mayur', disebut kata ulang...", "jawabanBenar": "berubah bunyi" },
+          { "pertanyaan": "Teks yang bertujuan meyakinkan pembaca untuk melakukan sesuatu disebut teks...", "jawabanBenar": "persuasi" },
+          { "pertanyaan": "Bagian akhir surat resmi yang berisi nama dan jabatan pengirim disebut...", "jawabanBenar": "tanda tangan dan nama terang" },
+          { "pertanyaan": "Kalimat yang terdiri dari satu subjek dan satu predikat disebut kalimat...", "jawabanBenar": "tunggal" },
+          { "pertanyaan": "Petunjuk pementasan dalam naskah drama yang ditulis dalam tanda kurung disebut...", "jawabanBenar": "kramagung" },
+          { "pertanyaan": "Bagian cerita yang berisi pengenalan masalah disebut...", "jawabanBenar": "komplikasi" },
+          { "pertanyaan": "Kata dasar yang mendapatkan awalan dan akhiran sekaligus disebut...", "jawabanBenar": "konfiks" }
+        ]}
+      ]
+    },
+    {
+      "npcID": "NPC_IPS_1",
+      "daftarLevel": [
+        { "level": 1, "daftarPertanyaan": [
+          { "pertanyaan": "Samudra terluas yang ada di bumi adalah Samudra...", "jawabanBenar": "pasifik" },
+          { "pertanyaan": "Siapa nama tokoh yang membacakan naskah proklamasi kemerdekaan Indonesia pada tanggal 17 Agustus 1945?", "jawabanBenar": "soekarno" },
+          { "pertanyaan": "Apa nama benua terkecil di dunia?", "jawabanBenar": "australia" },
+          { "pertanyaan": "Kerajaan Hindu tertua di Indonesia adalah Kerajaan...", "jawabanBenar": "kutai" },
+          { "pertanyaan": "Mata uang resmi yang digunakan oleh negara Jepang adalah...", "jawabanBenar": "yen" },
+          { "pertanyaan": "Pulau terbesar di Indonesia adalah pulau...", "jawabanBenar": "kalimantan" },
+          { "pertanyaan": "Ibu kota negara Indonesia sebelum pindah ke Nusantara adalah...", "jawabanBenar": "jakarta" },
+          { "pertanyaan": "Gunung tertinggi di Indonesia adalah...", "jawabanBenar": "puncak jaya" },
+          { "pertanyaan": "Danau terluas di Indonesia adalah Danau...", "jawabanBenar": "toba" },
+          { "pertanyaan": "Indonesia terletak di antara dua benua, yaitu Asia dan...", "jawabanBenar": "australia" }
+        ]},
+        { "level": 2, "daftarPertanyaan": [
+          { "pertanyaan": "Apa nama garis khayal yang membagi bumi menjadi dua bagian, yaitu utara dan selatan?", "jawabanBenar": "khatulistiwa" },
+          { "pertanyaan": "Siapa pahlawan nasional dari Jepara yang memperjuangkan emansipasi wanita Indonesia?", "jawabanBenar": "kartini" },
+          { "pertanyaan": "Candi Buddha terbesar di Indonesia yang terletak di Magelang, Jawa Tengah adalah Candi...", "jawabanBenar": "borobudur" },
+          { "pertanyaan": "Kegiatan menyalurkan barang atau jasa dari produsen ke konsumen disebut apa?", "jawabanBenar": "distribusi" },
+          { "pertanyaan": "Negara tetangga Indonesia yang berbatasan darat langsung di pulau Kalimantan adalah...", "jawabanBenar": "malaysia" },
+          { "pertanyaan": "Organisasi pergerakan nasional pertama di Indonesia yang berdiri tahun 1908 adalah...", "jawabanBenar": "budi utomo" },
+          { "pertanyaan": "Kegiatan mengolah bahan mentah menjadi barang jadi disebut kegiatan...", "jawabanBenar": "produksi" },
+          { "pertanyaan": "Suku bangsa asli yang mendiami Pulau Papua adalah suku...", "jawabanBenar": "dani" },
+          { "pertanyaan": "Presiden pertama Republik Indonesia adalah...", "jawabanBenar": "soekarno" },
+          { "pertanyaan": "Alat tukar yang sah digunakan dalam kegiatan jual beli disebut...", "jawabanBenar": "uang" }
+        ]},
+        { "level": 3, "daftarPertanyaan": [
+          { "pertanyaan": "Organisasi pemuda yang mengikrarkan Sumpah Pemuda pada tanggal 28 Oktober 1928 diselenggarakan di kota...", "jawabanBenar": "jakarta" },
+          { "pertanyaan": "Kerajaan maritim terbesar di Nusantara yang berpusat di Sumatra adalah Kerajaan...", "jawabanBenar": "sriwijaya" },
+          { "pertanyaan": "Perjanjian yang mengakhiri masa penjajahan Belanda dan mengakui kedaulatan Indonesia adalah Konferensi...", "jawabanBenar": "meja bundar" },
+          { "pertanyaan": "Kegiatan ekonomi yang bertujuan memenuhi kebutuhan dengan menggunakan barang atau jasa disebut kegiatan...", "jawabanBenar": "konsumsi" },
+          { "pertanyaan": "Bentuk kerja sama antarnegara-negara Asia Tenggara disebut...", "jawabanBenar": "asean" },
+          { "pertanyaan": "Tokoh yang dikenal sebagai Bapak Pendidikan Nasional Indonesia adalah...", "jawabanBenar": "ki hajar dewantara" },
+          { "pertanyaan": "Peristiwa perpindahan penduduk dari daerah padat ke daerah yang lebih jarang penduduknya di Indonesia disebut...", "jawabanBenar": "transmigrasi" },
+          { "pertanyaan": "Badan yang merumuskan dasar negara Indonesia sebelum kemerdekaan disebut...", "jawabanBenar": "bpupki" },
+          { "pertanyaan": "Komoditas rempah-rempah yang menjadi daya tarik bangsa Eropa datang ke Nusantara antara lain adalah...", "jawabanBenar": "cengkeh" },
+          { "pertanyaan": "Sistem tanam paksa yang diterapkan Belanda di Indonesia disebut...", "jawabanBenar": "cultuurstelsel" }
+        ]}
+      ]
+    },
+    {
+      "npcID": "NPC_IPS_2",
+      "daftarLevel": [
+        { "level": 1, "daftarPertanyaan": [
+          { "pertanyaan": "Samudra yang terletak di sebelah selatan Indonesia adalah Samudra...", "jawabanBenar": "hindia" },
+          { "pertanyaan": "Siapa nama tokoh yang mendampingi Soekarno membacakan naskah proklamasi kemerdekaan Indonesia?", "jawabanBenar": "hatta" },
+          { "pertanyaan": "Apa nama benua terbesar di dunia?", "jawabanBenar": "asia" },
+          { "pertanyaan": "Kerajaan Islam pertama di Indonesia adalah Kerajaan...", "jawabanBenar": "samudra pasai" },
+          { "pertanyaan": "Mata uang resmi yang digunakan oleh negara Amerika Serikat adalah...", "jawabanBenar": "dolar" },
+          { "pertanyaan": "Pulau terkecil dari lima pulau besar di Indonesia adalah pulau...", "jawabanBenar": "jawa" },
+          { "pertanyaan": "Ibu kota negara Indonesia yang baru bernama...", "jawabanBenar": "nusantara" },
+          { "pertanyaan": "Sungai terpanjang di Indonesia adalah Sungai...", "jawabanBenar": "kapuas" },
+          { "pertanyaan": "Selat yang memisahkan Pulau Jawa dan Pulau Sumatra adalah Selat...", "jawabanBenar": "sunda" },
+          { "pertanyaan": "Indonesia beriklim...", "jawabanBenar": "tropis" }
+        ]},
+        { "level": 2, "daftarPertanyaan": [
+          { "pertanyaan": "Apa nama garis khayal yang menghubungkan kutub utara dan kutub selatan bumi?", "jawabanBenar": "garis bujur" },
+          { "pertanyaan": "Siapa pahlawan nasional yang dikenal dengan sebutan 'Bapak Bangsa' dan Proklamator Indonesia?", "jawabanBenar": "soekarno" },
+          { "pertanyaan": "Candi Hindu terbesar di Indonesia yang terletak di Yogyakarta adalah Candi...", "jawabanBenar": "prambanan" },
+          { "pertanyaan": "Kegiatan menghasilkan barang atau jasa disebut kegiatan...", "jawabanBenar": "produksi" },
+          { "pertanyaan": "Negara tetangga Indonesia yang berbentuk kerajaan di Semenanjung Malaya adalah...", "jawabanBenar": "malaysia" },
+          { "pertanyaan": "Organisasi yang didirikan oleh Soekarno pada tahun 1927 bernama...", "jawabanBenar": "pni" },
+          { "pertanyaan": "Kegiatan menggunakan atau menghabiskan nilai guna barang disebut kegiatan...", "jawabanBenar": "konsumsi" },
+          { "pertanyaan": "Suku bangsa yang mendiami Pulau Sumatra bagian utara adalah suku...", "jawabanBenar": "batak" },
+          { "pertanyaan": "Wakil presiden pertama Republik Indonesia adalah...", "jawabanBenar": "mohammad hatta" },
+          { "pertanyaan": "Tempat yang digunakan untuk melakukan kegiatan jual beli disebut...", "jawabanBenar": "pasar" }
+        ]},
+        { "level": 3, "daftarPertanyaan": [
+          { "pertanyaan": "Apa nama garis khayal yang membagi bumi menjadi dua bagian, yaitu utara dan selatan?", "jawabanBenar": "khatulistiwa" },
+          { "pertanyaan": "Kerajaan Hindu terbesar di Jawa yang berpusat di Trowulan adalah Kerajaan...", "jawabanBenar": "majapahit" },
+          { "pertanyaan": "Peristiwa penyerahan kedaulatan Indonesia oleh Belanda terjadi pada tahun...", "jawabanBenar": "1949" },
+          { "pertanyaan": "Kegiatan menyalurkan barang dari produsen ke konsumen disebut kegiatan...", "jawabanBenar": "distribusi" },
+          { "pertanyaan": "Kerja sama ekonomi antarnegara di kawasan Asia-Pasifik disebut...", "jawabanBenar": "apec" },
+          { "pertanyaan": "Tokoh yang dikenal sebagai perumus dasar negara Pancasila selain Soekarno adalah...", "jawabanBenar": "mohammad yamin" },
+          { "pertanyaan": "Peristiwa perpindahan penduduk dari desa ke kota disebut...", "jawabanBenar": "urbanisasi" },
+          { "pertanyaan": "Badan yang mempersiapkan kemerdekaan Indonesia setelah BPUPKI dibubarkan disebut...", "jawabanBenar": "ppki" },
+          { "pertanyaan": "Komoditas ekspor utama Indonesia pada masa kolonial selain rempah-rempah adalah...", "jawabanBenar": "kopi" },
+          { "pertanyaan": "Sistem kerja paksa tanpa upah yang diterapkan Belanda disebut...", "jawabanBenar": "kerja rodi" }
+        ]}
+      ]
+    },
+    {
+      "npcID": "NPC_PKN_1",
+      "daftarLevel": [
+        { "level": 1, "daftarPertanyaan": [
+          { "pertanyaan": "Apa semboyan negara Indonesia yang tertulis pada kaki burung Garuda Pancasila?", "jawabanBenar": "bhinneka tunggal ika" },
+          { "pertanyaan": "Sila pertama dalam Pancasila dilambangkan dengan simbol apa?", "jawabanBenar": "bintang" },
+          { "pertanyaan": "Apa dasar negara Republik Indonesia?", "jawabanBenar": "pancasila" },
+          { "pertanyaan": "Berapakah jumlah bulu pada leher burung Garuda Pancasila?", "jawabanBenar": "45" },
+          { "pertanyaan": "Hari Lahir Pancasila diperingati setiap tanggal berapa? (Contoh: 1 Juni)", "jawabanBenar": "1 juni" },
+          { "pertanyaan": "Apa nama bendera kebangsaan Indonesia?", "jawabanBenar": "merah putih" },
+          { "pertanyaan": "Apa lagu kebangsaan negara Indonesia?", "jawabanBenar": "indonesia raya" },
+          { "pertanyaan": "Sila kedua Pancasila berbunyi 'Kemanusiaan yang adil dan...'", "jawabanBenar": "beradab" },
+          { "pertanyaan": "Apa nama lambang negara Indonesia?", "jawabanBenar": "garuda pancasila" },
+          { "pertanyaan": "Hak untuk mendapatkan pendidikan merupakan salah satu contoh hak...", "jawabanBenar": "warga negara" }
+        ]},
+        { "level": 2, "daftarPertanyaan": [
+          { "pertanyaan": "Apa nama hukum dasar tertulis tertinggi di negara Indonesia?", "jawabanBenar": "uud 1945" },
+          { "pertanyaan": "Lembaga tinggi negara yang bertugas membuat undang-undang bersama Presiden adalah...", "jawabanBenar": "dpr" },
+          { "pertanyaan": "Sikap menghargai dan menghormati perbedaan agama, suku, dan budaya disebut sikap...", "jawabanBenar": "toleransi" },
+          { "pertanyaan": "Apa lambang dari sila kelima Pancasila?", "jawabanBenar": "padi dan kapas" },
+          { "pertanyaan": "Keputusan bersama dalam musyawarah sebaiknya diambil berdasarkan prinsip apa?", "jawabanBenar": "mufakat" },
+          { "pertanyaan": "Kewajiban yang harus dilaksanakan sebelum menuntut hak disebut...", "jawabanBenar": "kewajiban" },
+          { "pertanyaan": "Sila keempat Pancasila dilambangkan dengan simbol...", "jawabanBenar": "kepala banteng" },
+          { "pertanyaan": "Norma yang bersumber dari hati nurani manusia disebut norma...", "jawabanBenar": "kesusilaan" },
+          { "pertanyaan": "Sikap rela berkorban demi kepentingan bangsa dan negara disebut sikap...", "jawabanBenar": "cinta tanah air" },
+          { "pertanyaan": "Musyawarah yang dilakukan untuk mencapai kesepakatan bersama disebut musyawarah...", "jawabanBenar": "mufakat" }
+        ]},
+        { "level": 3, "daftarPertanyaan": [
+          { "pertanyaan": "Lembaga negara yang memiliki wewenang mengubah dan menetapkan UUD adalah...", "jawabanBenar": "mpr" },
+          { "pertanyaan": "Sistem pemerintahan yang dianut Indonesia dimana kekuasaan dijalankan oleh rakyat disebut...", "jawabanBenar": "demokrasi" },
+          { "pertanyaan": "Norma yang mengatur perilaku manusia dan memiliki sanksi tegas dari negara disebut norma...", "jawabanBenar": "hukum" },
+          { "pertanyaan": "Prinsip yang menekankan bahwa semua warga negara memiliki kedudukan yang sama di mata hukum disebut...", "jawabanBenar": "persamaan hak" },
+          { "pertanyaan": "Apa nama sistem pembagian kekuasaan negara menjadi legislatif, eksekutif, dan yudikatif?", "jawabanBenar": "trias politika" },
+          { "pertanyaan": "Lembaga yang bertugas mengadili pelanggaran undang-undang di tingkat tertinggi adalah...", "jawabanBenar": "mahkamah agung" },
+          { "pertanyaan": "Upaya mempertahankan keutuhan wilayah Negara Kesatuan Republik Indonesia disebut...", "jawabanBenar": "bela negara" },
+          { "pertanyaan": "Sikap yang mengutamakan kepentingan bersama di atas kepentingan pribadi disebut...", "jawabanBenar": "gotong royong" },
+          { "pertanyaan": "Nilai yang terkandung dalam sila ketiga Pancasila adalah persatuan...", "jawabanBenar": "indonesia" },
+          { "pertanyaan": "Hak untuk memilih dan dipilih dalam pemilihan umum disebut hak...", "jawabanBenar": "politik" }
+        ]}
+      ]
+    },
+    {
+      "npcID": "NPC_PKN_2",
+      "daftarLevel": [
+        { "level": 1, "daftarPertanyaan": [
+          { "pertanyaan": "Sila ketiga Pancasila dilambangkan dengan simbol apa?", "jawabanBenar": "pohon beringin" },
+          { "pertanyaan": "Apa bunyi sila kelima Pancasila?", "jawabanBenar": "keadilan sosial bagi seluruh rakyat indonesia" },
+          { "pertanyaan": "Siapa yang menjahit bendera Merah Putih pertama kali?", "jawabanBenar": "fatmawati" },
+          { "pertanyaan": "Hari Kemerdekaan Indonesia diperingati setiap tanggal berapa? (Contoh: 17 Agustus)", "jawabanBenar": "17 agustus" },
+          { "pertanyaan": "Apa nama tulisan pada pita yang dicengkeram burung Garuda?", "jawabanBenar": "bhinneka tunggal ika" },
+          { "pertanyaan": "Sikap saling membantu dalam kehidupan sehari-hari disebut sikap...", "jawabanBenar": "gotong royong" },
+          { "pertanyaan": "Apa nama upacara yang dilakukan setiap hari Senin di sekolah?", "jawabanBenar": "upacara bendera" },
+          { "pertanyaan": "Sila keempat Pancasila berbunyi 'Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam...'", "jawabanBenar": "permusyawaratan perwakilan" },
+          { "pertanyaan": "Kewajiban menjaga kebersihan lingkungan merupakan tanggung jawab...", "jawabanBenar": "semua warga" },
+          { "pertanyaan": "Apa sebutan untuk warga negara yang tinggal di suatu negara?", "jawabanBenar": "penduduk" }
+        ]},
+        { "level": 2, "daftarPertanyaan": [
+          { "pertanyaan": "Apa nama sidang yang merumuskan dasar negara Indonesia sebelum kemerdekaan?", "jawabanBenar": "sidang bpupki" },
+          { "pertanyaan": "Lembaga yang bertugas menjalankan pemerintahan sehari-hari disebut lembaga...", "jawabanBenar": "eksekutif" },
+          { "pertanyaan": "Sikap menerima perbedaan pendapat dalam musyawarah disebut sikap...", "jawabanBenar": "lapang dada" },
+          { "pertanyaan": "Apa lambang dari sila pertama Pancasila?", "jawabanBenar": "bintang" },
+          { "pertanyaan": "Keputusan yang diambil melalui suara terbanyak disebut...", "jawabanBenar": "voting" },
+          { "pertanyaan": "Hak yang dimiliki sejak lahir dan tidak dapat dicabut disebut hak...", "jawabanBenar": "asasi manusia" },
+          { "pertanyaan": "Sila kedua Pancasila dilambangkan dengan simbol...", "jawabanBenar": "rantai" },
+          { "pertanyaan": "Norma yang mengatur tata krama dalam pergaulan disebut norma...", "jawabanBenar": "kesopanan" },
+          { "pertanyaan": "Sikap mendahulukan kepentingan negara di atas kepentingan pribadi disebut sikap...", "jawabanBenar": "nasionalisme" },
+          { "pertanyaan": "Musyawarah yang dilakukan di tingkat desa disebut...", "jawabanBenar": "musyawarah desa" }
+        ]},
+        { "level": 3, "daftarPertanyaan": [
+          { "pertanyaan": "Lembaga negara yang bertugas mengawasi keuangan negara disebut...", "jawabanBenar": "bpk" },
+          { "pertanyaan": "Sistem pemerintahan yang membagi kekuasaan antara pemerintah pusat dan daerah disebut...", "jawabanBenar": "otonomi daerah" },
+          { "pertanyaan": "Norma yang mengatur hubungan manusia dengan Tuhan disebut norma...", "jawabanBenar": "agama" },
+          { "pertanyaan": "Prinsip yang menyatakan bahwa kedaulatan berada di tangan rakyat disebut kedaulatan...", "jawabanBenar": "rakyat" },
+          { "pertanyaan": "Apa nama lembaga yang mengawasi jalannya pemilihan umum di Indonesia?", "jawabanBenar": "kpu" },
+          { "pertanyaan": "Lembaga yang bertugas menguji undang-undang terhadap UUD 1945 adalah...", "jawabanBenar": "mahkamah konstitusi" },
+          { "pertanyaan": "Sikap mempertahankan keutuhan NKRI dari ancaman luar disebut sikap...", "jawabanBenar": "bela negara" },
+          { "pertanyaan": "Contoh sikap sesuai sila kelima Pancasila adalah bersikap...", "jawabanBenar": "adil" },
+          { "pertanyaan": "Nilai yang terkandung dalam sila keempat Pancasila adalah kerakyatan yang dipimpin oleh...", "jawabanBenar": "hikmat kebijaksanaan" },
+          { "pertanyaan": "Hak untuk menyampaikan pendapat di muka umum disebut hak...", "jawabanBenar": "berpendapat" }
+        ]}
+      ]
+    },
+    {
+      "npcID": "NPC_Inggris_1",
+      "daftarLevel": [
+        { "level": 1, "daftarPertanyaan": [
+          { "pertanyaan": "Apa bahasa Inggris dari kata 'Matahari'?", "jawabanBenar": "sun" },
+          { "pertanyaan": "Terjemahkan kalimat berikut ke dalam bahasa Indonesia: 'She is reading a book.'", "jawabanBenar": "dia sedang membaca buku" },
+          { "pertanyaan": "Apa bahasa Inggris dari kata 'Buku'?", "jawabanBenar": "book" },
+          { "pertanyaan": "Apa arti dari kata 'Apple' dalam bahasa Indonesia?", "jawabanBenar": "apel" },
+          { "pertanyaan": "Terjemahkan kata 'Good morning' ke dalam bahasa Indonesia!", "jawabanBenar": "selamat pagi" },
+          { "pertanyaan": "Apa bahasa Inggris dari kata 'Kucing'?", "jawabanBenar": "cat" },
+          { "pertanyaan": "Apa bahasa Inggris dari kata 'Meja'?", "jawabanBenar": "table" },
+          { "pertanyaan": "Apa arti dari kata 'Water' dalam bahasa Indonesia?", "jawabanBenar": "air" },
+          { "pertanyaan": "Apa bahasa Inggris dari angka 'Lima'?", "jawabanBenar": "five" },
+          { "pertanyaan": "Apa bahasa Inggris dari kata 'Rumah'?", "jawabanBenar": "house" }
+        ]},
+        { "level": 2, "daftarPertanyaan": [
+          { "pertanyaan": "Apa lawan kata (opposite) dari kata 'Big' dalam bahasa Inggris?", "jawabanBenar": "small" },
+          { "pertanyaan": "Terjemahkan kalimat berikut: 'I love learning.'", "jawabanBenar": "saya suka belajar" },
+          { "pertanyaan": "Apa bahasa Inggris dari warna 'Hijau'?", "jawabanBenar": "green" },
+          { "pertanyaan": "Sebutkan bahasa Inggris dari bilangan 'Sepuluh'!", "jawabanBenar": "ten" },
+          { "pertanyaan": "Apa arti dari kalimat 'Thank you' dalam bahasa Indonesia?", "jawabanBenar": "terima kasih" },
+          { "pertanyaan": "Apa bentuk lampau (past tense) dari kata kerja 'Go'?", "jawabanBenar": "went" },
+          { "pertanyaan": "Terjemahkan kalimat: 'They are playing football.'", "jawabanBenar": "mereka sedang bermain sepak bola" },
+          { "pertanyaan": "Apa bahasa Inggris dari 'Hari Senin'?", "jawabanBenar": "monday" },
+          { "pertanyaan": "Apa lawan kata dari 'Hot' dalam bahasa Inggris?", "jawabanBenar": "cold" },
+          { "pertanyaan": "Apa bahasa Inggris dari kata 'Sekolah'?", "jawabanBenar": "school" }
+        ]},
+        { "level": 3, "daftarPertanyaan": [
+          { "pertanyaan": "Terjemahkan kalimat berikut ke bahasa Inggris: 'Saya sedang mengerjakan pekerjaan rumah.'", "jawabanBenar": "i am doing my homework" },
+          { "pertanyaan": "Apa bentuk jamak (plural) dari kata 'Child'?", "jawabanBenar": "children" },
+          { "pertanyaan": "Isilah titik-titik: 'She ___ to school every day.' (menggunakan kata kerja yang benar)", "jawabanBenar": "goes" },
+          { "pertanyaan": "Apa bahasa Inggris dari 'Kemarin'?", "jawabanBenar": "yesterday" },
+          { "pertanyaan": "Terjemahkan kalimat: 'We will go to the beach tomorrow.'", "jawabanBenar": "kami akan pergi ke pantai besok" },
+          { "pertanyaan": "Apa bentuk lampau dari kata kerja 'Eat'?", "jawabanBenar": "ate" },
+          { "pertanyaan": "Apa arti dari kata 'Because' dalam bahasa Indonesia?", "jawabanBenar": "karena" },
+          { "pertanyaan": "Isilah titik-titik dengan kata tanya yang tepat: '___ is your name?'", "jawabanBenar": "what" },
+          { "pertanyaan": "Apa bahasa Inggris dari kalimat 'Berapa harganya?'", "jawabanBenar": "how much is it" },
+          { "pertanyaan": "Apa bentuk jamak dari kata 'Mouse'?", "jawabanBenar": "mice" }
+        ]}
+      ]
+    },
+    {
+      "npcID": "NPC_Inggris_2",
+      "daftarLevel": [
+        { "level": 1, "daftarPertanyaan": [
+          { "pertanyaan": "Apa bahasa Inggris dari kata 'Bulan'?", "jawabanBenar": "moon" },
+          { "pertanyaan": "Terjemahkan kalimat berikut ke dalam bahasa Indonesia: 'He is drinking milk.'", "jawabanBenar": "dia sedang minum susu" },
+          { "pertanyaan": "Apa bahasa Inggris dari kata 'Pensil'?", "jawabanBenar": "pencil" },
+          { "pertanyaan": "Apa arti dari kata 'Banana' dalam bahasa Indonesia?", "jawabanBenar": "pisang" },
+          { "pertanyaan": "Terjemahkan kata 'Good night' ke dalam bahasa Indonesia!", "jawabanBenar": "selamat malam" },
+          { "pertanyaan": "Apa bahasa Inggris dari kata 'Anjing'?", "jawabanBenar": "dog" },
+          { "pertanyaan": "Apa bahasa Inggris dari kata 'Kursi'?", "jawabanBenar": "chair" },
+          { "pertanyaan": "Apa arti dari kata 'Milk' dalam bahasa Indonesia?", "jawabanBenar": "susu" },
+          { "pertanyaan": "Apa bahasa Inggris dari angka 'Tujuh'?", "jawabanBenar": "seven" },
+          { "pertanyaan": "Apa bahasa Inggris dari kata 'Baju'?", "jawabanBenar": "shirt" }
+        ]},
+        { "level": 2, "daftarPertanyaan": [
+          { "pertanyaan": "Apa lawan kata (opposite) dari kata 'Fast' dalam bahasa Inggris?", "jawabanBenar": "slow" },
+          { "pertanyaan": "Terjemahkan kalimat berikut: 'He can swim very well.'", "jawabanBenar": "dia bisa berenang dengan sangat baik" },
+          { "pertanyaan": "Apa bahasa Inggris dari warna 'Kuning'?", "jawabanBenar": "yellow" },
+          { "pertanyaan": "Sebutkan bahasa Inggris dari bilangan 'Dua puluh'!", "jawabanBenar": "twenty" },
+          { "pertanyaan": "Apa arti dari kalimat 'Excuse me' dalam bahasa Indonesia?", "jawabanBenar": "permisi" },
+          { "pertanyaan": "Apa bentuk lampau (past tense) dari kata kerja 'Buy'?", "jawabanBenar": "bought" },
+          { "pertanyaan": "Terjemahkan kalimat: 'My father is a teacher.'", "jawabanBenar": "ayah saya adalah seorang guru" },
+          { "pertanyaan": "Apa bahasa Inggris dari 'Hari Jumat'?", "jawabanBenar": "friday" },
+          { "pertanyaan": "Apa lawan kata dari 'Happy' dalam bahasa Inggris?", "jawabanBenar": "sad" },
+          { "pertanyaan": "Apa bahasa Inggris dari kata 'Perpustakaan'?", "jawabanBenar": "library" }
+        ]},
+        { "level": 3, "daftarPertanyaan": [
+          { "pertanyaan": "Terjemahkan kalimat berikut ke bahasa Inggris: 'Mereka sedang bermain di taman.'", "jawabanBenar": "they are playing in the park" },
+          { "pertanyaan": "Apa bentuk jamak (plural) dari kata 'Foot'?", "jawabanBenar": "feet" },
+          { "pertanyaan": "Isilah titik-titik: 'They ___ football every weekend.' (menggunakan kata kerja yang benar)", "jawabanBenar": "play" },
+          { "pertanyaan": "Apa bahasa Inggris dari 'Besok'?", "jawabanBenar": "tomorrow" },
+          { "pertanyaan": "Terjemahkan kalimat: 'I have already finished my homework.'", "jawabanBenar": "saya sudah menyelesaikan pekerjaan rumah saya" },
+          { "pertanyaan": "Apa bentuk lampau dari kata kerja 'Write'?", "jawabanBenar": "wrote" },
+          { "pertanyaan": "Apa arti dari kata 'Although' dalam bahasa Indonesia?", "jawabanBenar": "meskipun" },
+          { "pertanyaan": "Isilah titik-titik dengan kata tanya yang tepat: '___ do you live?'", "jawabanBenar": "where" },
+          { "pertanyaan": "Apa bahasa Inggris dari kalimat 'Jam berapa sekarang?'", "jawabanBenar": "what time is it now" },
+          { "pertanyaan": "Apa bentuk jamak dari kata 'Tooth'?", "jawabanBenar": "teeth" }
+        ]}
       ]
     }
   ]
